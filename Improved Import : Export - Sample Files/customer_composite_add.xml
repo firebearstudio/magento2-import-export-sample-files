@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+    <customer>
+        <email>jongate@example.com</email>
+        <_website>base</_website>
+        <_store>admin</_store>
+        <confirmation></confirmation>
+        <created_at>2016-04-19 12:55:51</created_at>
+        <created_in>Admin</created_in>
+        <disable_auto_group_change></disable_auto_group_change>
+        <dob>2016-04-19 00:00:00</dob>
+        <firstname>Jon</firstname>
+        <gender>Male</gender>
+        <group_id>1</group_id>
+        <lastname>Gate</lastname>
+        <middlename></middlename>
+        <password_hash>703feeb7a8a5195cf1cc9b759ba1e113:V2h36OrOJRh56MyGHw9NF1J855eL9X4P</password_hash>
+        <prefix></prefix>
+        <rp_token></rp_token>
+        <rp_token_created_at></rp_token_created_at>
+        <store_id>0</store_id>
+        <suffix></suffix>
+        <taxvat></taxvat>
+        <website_id>1</website_id>
+        <password></password>
+        <_address_city>Campbell</_address_city>
+        <_address_company></_address_company>
+        <_address_country_id>US</_address_country_id>
+        <_address_fax></_address_fax>
+        <_address_firstname>Jon</_address_firstname>
+        <_address_lastname>Gate</_address_lastname>
+        <_address_middlename></_address_middlename>
+        <_address_postcode>95008</_address_postcode>
+        <_address_prefix></_address_prefix>
+        <_address_region>California</_address_region>
+        <_address_street>"Main Street 1 Suite 200"</_address_street>
+        <_address_suffix></_address_suffix>
+        <_address_telephone>123456789</_address_telephone>
+        <_address_vat_id></_address_vat_id>
+        <_address_default_billing_>1</_address_default_billing_>
+        <_address_default_shipping_>1</_address_default_shipping_>
+    </customer>
+</Customers>

@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <Item>
+        <sku>WH13-XS-Gray</sku>
+        <store_view_code></store_view_code>
+        <attribute_set_code>Default</attribute_set_code>
+        <product_type>simple</product_type>
+        <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+        <product_websites>website_1</product_websites>
+        <name>Circe Hooded Fire Fleece-XS-Gray</name>
+        <description><![CDATA["<p>Keep shivers at bay with the Circe Hooded Ice Fleece. Ultra-thick, high-pile fleece traps your body heat and keeps cold outside. The drawstring hood and ribbed details add extra coziness and touches of classic style. Its relaxed fit is loose enough to layer comfortably over your shirt.</p><p>Full-zip front. <br />Three-panel hood. <br />Flatlock seams throughout. <br />Welt hand pockets. <br />Machine wash/dry.</p>"]]></description>
+        <short_description></short_description>
+        <weight>1.0000</weight>
+        <product_online>1</product_online>
+        <tax_class_name>Taxable Goods</tax_class_name>
+        <visibility>Not Visible Individually</visibility>
+        <price>68.0000</price>
+        <url_key>circe-hooded-fire-fleece-xs-gray</url_key>
+        <meta_title></meta_title>
+        <meta_keywords></meta_keywords>
+        <meta_description></meta_description>
+        <thumbnail_image_label></thumbnail_image_label>
+        <swatch_image></swatch_image>
+        <swatch_image_label></swatch_image_label>
+        <created_at>8/2/17, 9:07 AM</created_at>
+        <updated_at>8/2/17, 9:07 AM</updated_at>
+        <new_from_date></new_from_date>
+        <new_to_date></new_to_date>
+        <display_product_options_in>Block after Info Column</display_product_options_in>
+        <map_price></map_price>
+        <msrp_price></msrp_price>
+        <map_enabled></map_enabled>
+        <gift_message_available></gift_message_available>
+        <custom_design></custom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <page_layout></page_layout>
+        <product_options_container></product_options_container>
+        <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+        <country_of_manufacture></country_of_manufacture>
+        <additional_attributes>color=Gray,size=XS</additional_attributes>
+        <qty>100.0000</qty>
+        <out_of_stock_qty>0.0000</out_of_stock_qty>
+        <use_config_min_qty>1</use_config_min_qty>
+        <is_qty_decimal>0</is_qty_decimal>
+        <allow_backorders>0</allow_backorders>
+        <use_config_backorders>1</use_config_backorders>
+        <min_cart_qty>1.0000</min_cart_qty>
+        <use_config_min_sale_qty>1</use_config_min_sale_qty>
+        <max_cart_qty>0.0000</max_cart_qty>
+        <use_config_max_sale_qty>1</use_config_max_sale_qty>
+        <is_in_stock>1</is_in_stock>
+        <notify_on_stock_below></notify_on_stock_below>
+        <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+        <manage_stock>0</manage_stock>
+        <use_config_manage_stock>1</use_config_manage_stock>
+        <use_config_qty_increments>1</use_config_qty_increments>
+        <qty_increments>0.0000</qty_increments>
+        <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+        <enable_qty_increments>0</enable_qty_increments>
+        <is_decimal_divided>0</is_decimal_divided>
+        <website_id>0</website_id>
+        <related_skus></related_skus>
+        <related_position></related_position>
+        <crosssell_skus></crosssell_skus>
+        <crosssell_position></crosssell_position>
+        <upsell_skus></upsell_skus>
+        <upsell_position></upsell_position>
+        <hide_from_product_page></hide_from_product_page>
+        <bundle_price_type></bundle_price_type>
+        <bundle_sku_type></bundle_sku_type>
+        <bundle_price_view></bundle_price_view>
+        <bundle_weight_type></bundle_weight_type>
+        <bundle_values></bundle_values>
+        <bundle_shipment_type></bundle_shipment_type>
+        <configurable_variations></configurable_variations>
+        <configurable_variation_labels></configurable_variation_labels>
+        <associated_skus></associated_skus>
+        <create_attribute>
+            <attribute_code>global_brand</attribute_code>
+            <frontend_input>select</frontend_input>
+            <is_required>0</is_required>
+            <is_global>1</is_global>
+            <default_value_text>Apple text</default_value_text>
+            <is_unique>0</is_unique>
+            <frontend_class>validate-alphanum</frontend_class>
+            <is_used_in_grid>1</is_used_in_grid>
+            <is_filterable_in_grid>1</is_filterable_in_grid>
+            <is_searchable>1</is_searchable>
+            <search_weight>3</search_weight>
+            <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+            <is_comparable>0</is_comparable>
+            <is_filterable>1</is_filterable>
+            <is_filterable_in_search>1</is_filterable_in_search>
+            <position>2</position>
+            <is_used_for_promo_rules>0</is_used_for_promo_rules>
+            <is_html_allowed_on_front>1</is_html_allowed_on_front>
+            <is_visible_on_front>1</is_visible_on_front>
+            <used_in_product_listing>0</used_in_product_listing>
+            <used_for_sort_by>1</used_for_sort_by>
+            <frontend_label_0>Global Brand</frontend_label_0>
+            <frontend_label_1>Global Brand</frontend_label_1>
+            <attribute_set>Default</attribute_set>
+            <value>Apple</value>
+        </create_attribute>
+    </Item>
+    <Item>
+        <sku>WH13-XS-Green</sku>
+        <store_view_code></store_view_code>
+        <attribute_set_code>Default</attribute_set_code>
+        <product_type>simple</product_type>
+        <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+        <product_websites>website_1</product_websites>
+        <name>Circe Hooded Fire Fleece-XS-Green</name>
+        <description><![CDATA["<p>Keep shivers at bay with the Circe Hooded Ice Fleece. Ultra-thick, high-pile fleece traps your body heat and keeps cold outside. The drawstring hood and ribbed details add extra coziness and touches of classic style. Its relaxed fit is loose enough to layer comfortably over your shirt.</p><p>Full-zip front. <br />Three-panel hood. <br />Flatlock seams throughout. <br />Welt hand pockets. <br />Machine wash/dry.</p>"]]></description>
+        <short_description></short_description>
+        <weight>1.0000</weight>
+        <product_online>1</product_online>
+        <tax_class_name>Taxable Goods</tax_class_name>
+        <visibility>Not Visible Individually</visibility>
+        <price>68.0000</price>
+        <url_key>circe-hooded-fire-fleece-xs-green</url_key>
+        <meta_title></meta_title>
+        <meta_keywords></meta_keywords>
+        <meta_description></meta_description>
+        <thumbnail_image_label></thumbnail_image_label>
+        <swatch_image></swatch_image>
+        <swatch_image_label></swatch_image_label>
+        <created_at>8/2/17, 9:07 AM</created_at>
+        <updated_at>8/2/17, 9:07 AM</updated_at>
+        <new_from_date></new_from_date>
+        <new_to_date></new_to_date>
+        <display_product_options_in>Block after Info Column</display_product_options_in>
+        <map_price></map_price>
+        <msrp_price></msrp_price>
+        <map_enabled></map_enabled>
+        <gift_message_available></gift_message_available>
+        <custom_design></custom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <page_layout></page_layout>
+        <product_options_container></product_options_container>
+        <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+        <country_of_manufacture></country_of_manufacture>
+        <additional_attributes>color=Green,size=XS</additional_attributes>
+        <qty>100.0000</qty>
+        <out_of_stock_qty>0.0000</out_of_stock_qty>
+        <use_config_min_qty>1</use_config_min_qty>
+        <is_qty_decimal>0</is_qty_decimal>
+        <allow_backorders>0</allow_backorders>
+        <use_config_backorders>1</use_config_backorders>
+        <min_cart_qty>1.0000</min_cart_qty>
+        <use_config_min_sale_qty>1</use_config_min_sale_qty>
+        <max_cart_qty>0.0000</max_cart_qty>
+        <use_config_max_sale_qty>1</use_config_max_sale_qty>
+        <is_in_stock>1</is_in_stock>
+        <notify_on_stock_below></notify_on_stock_below>
+        <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+        <manage_stock>0</manage_stock>
+        <use_config_manage_stock>1</use_config_manage_stock>
+        <use_config_qty_increments>1</use_config_qty_increments>
+        <qty_increments>0.0000</qty_increments>
+        <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+        <enable_qty_increments>0</enable_qty_increments>
+        <is_decimal_divided>0</is_decimal_divided>
+        <website_id>0</website_id>
+        <related_skus></related_skus>
+        <related_position></related_position>
+        <crosssell_skus></crosssell_skus>
+        <crosssell_position></crosssell_position>
+        <upsell_skus></upsell_skus>
+        <upsell_position></upsell_position>
+        <hide_from_product_page></hide_from_product_page>
+        <bundle_price_type></bundle_price_type>
+        <bundle_sku_type></bundle_sku_type>
+        <bundle_price_view></bundle_price_view>
+        <bundle_weight_type></bundle_weight_type>
+        <bundle_values></bundle_values>
+        <bundle_shipment_type></bundle_shipment_type>
+        <configurable_variations></configurable_variations>
+        <configurable_variation_labels></configurable_variation_labels>
+        <associated_skus></associated_skus>
+        <create_attribute>
+            <attribute_code>global_brand</attribute_code>
+            <frontend_input>select</frontend_input>
+            <is_required>0</is_required>
+            <is_global>1</is_global>
+            <default_value_text>Apple text</default_value_text>
+            <is_unique>0</is_unique>
+            <frontend_class>validate-alphanum</frontend_class>
+            <is_used_in_grid>1</is_used_in_grid>
+            <is_filterable_in_grid>1</is_filterable_in_grid>
+            <is_searchable>1</is_searchable>
+            <search_weight>3</search_weight>
+            <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+            <is_comparable>0</is_comparable>
+            <is_filterable>1</is_filterable>
+            <is_filterable_in_search>1</is_filterable_in_search>
+            <position>2</position>
+            <is_used_for_promo_rules>0</is_used_for_promo_rules>
+            <is_html_allowed_on_front>1</is_html_allowed_on_front>
+            <is_visible_on_front>1</is_visible_on_front>
+            <used_in_product_listing>0</used_in_product_listing>
+            <used_for_sort_by>1</used_for_sort_by>
+            <frontend_label_0>Global Brand</frontend_label_0>
+            <frontend_label_1>Global Brand</frontend_label_1>
+            <attribute_set>Default</attribute_set>
+            <value>Microsoft</value>
+        </create_attribute>
+    </Item>
+    <Item>
+        <sku>WH13-XS-Purple</sku>
+        <store_view_code></store_view_code>
+        <attribute_set_code>Default</attribute_set_code>
+        <product_type>simple</product_type>
+        <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+        <product_websites>website_1</product_websites>
+        <name>Circe Hooded Fire Fleece-XS-Purple</name>
+        <description><![CDATA["<p>Keep shivers at bay with the Circe Hooded Ice Fleece. Ultra-thick, high-pile fleece traps your body heat and keeps cold outside. The drawstring hood and ribbed details add extra coziness and touches of classic style. Its relaxed fit is loose enough to layer comfortably over your shirt.</p><p>Full-zip front. <br />Three-panel hood. <br />Flatlock seams throughout. <br />Welt hand pockets. <br />Machine wash/dry.</p>"]]></description>
+        <short_description></short_description>
+        <weight>1.0000</weight>
+        <product_online>1</product_online>
+        <tax_class_name>Taxable Goods</tax_class_name>
+        <visibility>Not Visible Individually</visibility>
+        <price>68.0000</price>
+        <url_key>circe-hooded-fire-fleece-xs-purple</url_key>
+        <meta_title></meta_title>
+        <meta_keywords></meta_keywords>
+        <meta_description></meta_description>
+        <thumbnail_image_label></thumbnail_image_label>
+        <swatch_image></swatch_image>
+        <swatch_image_label></swatch_image_label>
+        <created_at>8/2/17, 9:07 AM</created_at>
+        <updated_at>8/2/17, 9:07 AM</updated_at>
+        <new_from_date></new_from_date>
+        <new_to_date></new_to_date>
+        <display_product_options_in>Block after Info Column</display_product_options_in>
+        <map_price></map_price>
+        <msrp_price></msrp_price>
+        <map_enabled></map_enabled>
+        <gift_message_available></gift_message_available>
+        <custom_design></custom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <page_layout></page_layout>
+        <product_options_container></product_options_container>
+        <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+        <country_of_manufacture></country_of_manufacture>
+        <additional_attributes>color=Purple,size=XS</additional_attributes>
+        <qty>100.0000</qty>
+        <out_of_stock_qty>0.0000</out_of_stock_qty>
+        <use_config_min_qty>1</use_config_min_qty>
+        <is_qty_decimal>0</is_qty_decimal>
+        <allow_backorders>0</allow_backorders>
+        <use_config_backorders>1</use_config_backorders>
+        <min_cart_qty>1.0000</min_cart_qty>
+        <use_config_min_sale_qty>1</use_config_min_sale_qty>
+        <max_cart_qty>0.0000</max_cart_qty>
+        <use_config_max_sale_qty>1</use_config_max_sale_qty>
+        <is_in_stock>1</is_in_stock>
+        <notify_on_stock_below></notify_on_stock_below>
+        <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+        <manage_stock>0</manage_stock>
+        <use_config_manage_stock>1</use_config_manage_stock>
+        <use_config_qty_increments>1</use_config_qty_increments>
+        <qty_increments>0.0000</qty_increments>
+        <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+        <enable_qty_increments>0</enable_qty_increments>
+        <is_decimal_divided>0</is_decimal_divided>
+        <website_id>0</website_id>
+        <related_skus></related_skus>
+        <related_position></related_position>
+        <crosssell_skus></crosssell_skus>
+        <crosssell_position></crosssell_position>
+        <upsell_skus></upsell_skus>
+        <upsell_position></upsell_position>
+        <hide_from_product_page></hide_from_product_page>
+        <bundle_price_type></bundle_price_type>
+        <bundle_sku_type></bundle_sku_type>
+        <bundle_price_view></bundle_price_view>
+        <bundle_weight_type></bundle_weight_type>
+        <bundle_values></bundle_values>
+        <bundle_shipment_type></bundle_shipment_type>
+        <configurable_variations></configurable_variations>
+        <configurable_variation_labels></configurable_variation_labels>
+        <associated_skus></associated_skus>
+        <create_attribute>
+            <attribute_code>global_brand</attribute_code>
+            <frontend_input>select</frontend_input>
+            <is_required>0</is_required>
+            <is_global>1</is_global>
+            <default_value_text>Apple text</default_value_text>
+            <is_unique>0</is_unique>
+            <frontend_class>validate-alphanum</frontend_class>
+            <is_used_in_grid>1</is_used_in_grid>
+            <is_filterable_in_grid>1</is_filterable_in_grid>
+            <is_searchable>1</is_searchable>
+            <search_weight>3</search_weight>
+            <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+            <is_comparable>0</is_comparable>
+            <is_filterable>1</is_filterable>
+            <is_filterable_in_search>1</is_filterable_in_search>
+            <position>2</position>
+            <is_used_for_promo_rules>0</is_used_for_promo_rules>
+            <is_html_allowed_on_front>1</is_html_allowed_on_front>
+            <is_visible_on_front>1</is_visible_on_front>
+            <used_in_product_listing>0</used_in_product_listing>
+            <used_for_sort_by>1</used_for_sort_by>
+            <frontend_label_0>Global Brand</frontend_label_0>
+            <frontend_label_1>Global Brand</frontend_label_1>
+            <attribute_set>Default</attribute_set>
+            <value>Cisco</value>
+        </create_attribute>
+    </Item>
+    <Item>
+        <sku>WH13-S-Gray</sku>
+        <store_view_code></store_view_code>
+        <attribute_set_code>Default</attribute_set_code>
+        <product_type>simple</product_type>
+        <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+        <product_websites>website_1</product_websites>
+        <name>Circe Hooded Fire Fleece-S-Gray</name>
+        <description><![CDATA["<p>Keep shivers at bay with the Circe Hooded Ice Fleece. Ultra-thick, high-pile fleece traps your body heat and keeps cold outside. The drawstring hood and ribbed details add extra coziness and touches of classic style. Its relaxed fit is loose enough to layer comfortably over your shirt.</p><p>Full-zip front. <br />Three-panel hood. <br />Flatlock seams throughout. <br />Welt hand pockets. <br />Machine wash/dry.</p>"]]></description>
+        <short_description></short_description>
+        <weight>1.000</weight>
+        <product_online>1</product_online>
+        <tax_class_name>Taxable Goods</tax_class_name>
+        <visibility>Not Visible Individually</visibility>
+        <price>68.0000</price>
+        <url_key>circe-hooded-fire-fleece-s-gray</url_key>
+        <meta_title></meta_title>
+        <meta_keywords></meta_keywords>
+        <meta_description></meta_description>
+        <thumbnail_image_label></thumbnail_image_label>
+        <swatch_image></swatch_image>
+        <swatch_image_label></swatch_image_label>
+        <created_at>8/2/17, 9:07 AM</created_at>
+        <updated_at>8/2/17, 9:07 AM</updated_at>
+        <new_from_date></new_from_date>
+        <new_to_date></new_to_date>
+        <display_product_options_in>Block after Info Column</display_product_options_in>
+        <map_price></map_price>
+        <msrp_price></msrp_price>
+        <map_enabled></map_enabled>
+        <gift_message_available></gift_message_available>
+        <custom_design></custom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <page_layout></page_layout>
+        <product_options_container></product_options_container>
+        <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+        <country_of_manufacture></country_of_manufacture>
+        <additional_attributes>color=Gray,size=S</additional_attributes>
+        <qty>100.0000</qty>
+        <out_of_stock_qty>0.0000</out_of_stock_qty>
+        <use_config_min_qty>1</use_config_min_qty>
+        <is_qty_decimal>0</is_qty_decimal>
+        <allow_backorders>0</allow_backorders>
+        <use_config_backorders>1</use_config_backorders>
+        <min_cart_qty>1.0000</min_cart_qty>
+        <use_config_min_sale_qty>1</use_config_min_sale_qty>
+        <max_cart_qty>0.0000</max_cart_qty>
+        <use_config_max_sale_qty>1</use_config_max_sale_qty>
+        <is_in_stock>1</is_in_stock>
+        <notify_on_stock_below></notify_on_stock_below>
+        <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+        <manage_stock>0</manage_stock>
+        <use_config_manage_stock>1</use_config_manage_stock>
+        <use_config_qty_increments>1</use_config_qty_increments>
+        <qty_increments>0.0000</qty_increments>
+        <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+        <enable_qty_increments>0</enable_qty_increments>
+        <is_decimal_divided>0</is_decimal_divided>
+        <website_id>0</website_id>
+        <related_skus></related_skus>
+        <related_position></related_position>
+        <crosssell_skus></crosssell_skus>
+        <crosssell_position></crosssell_position>
+        <upsell_skus></upsell_skus>
+        <upsell_position></upsell_position>
+        <hide_from_product_page></hide_from_product_page>
+        <bundle_price_type></bundle_price_type>
+        <bundle_sku_type></bundle_sku_type>
+        <bundle_price_view></bundle_price_view>
+        <bundle_weight_type></bundle_weight_type>
+        <bundle_values></bundle_values>
+        <bundle_shipment_type></bundle_shipment_type>
+        <configurable_variations></configurable_variations>
+        <configurable_variation_labels></configurable_variation_labels>
+        <associated_skus></associated_skus>
+        <create_attribute>
+            <attribute_code>global_brand</attribute_code>
+            <frontend_input>select</frontend_input>
+            <is_required>0</is_required>
+            <is_global>1</is_global>
+            <default_value_text>Apple text</default_value_text>
+            <is_unique>0</is_unique>
+            <frontend_class>validate-alphanum</frontend_class>
+            <is_used_in_grid>1</is_used_in_grid>
+            <is_filterable_in_grid>1</is_filterable_in_grid>
+            <is_searchable>1</is_searchable>
+            <search_weight>3</search_weight>
+            <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+            <is_comparable>0</is_comparable>
+            <is_filterable>1</is_filterable>
+            <is_filterable_in_search>1</is_filterable_in_search>
+            <position>2</position>
+            <is_used_for_promo_rules>0</is_used_for_promo_rules>
+            <is_html_allowed_on_front>1</is_html_allowed_on_front>
+            <is_visible_on_front>1</is_visible_on_front>
+            <used_in_product_listing>0</used_in_product_listing>
+            <used_for_sort_by>1</used_for_sort_by>
+            <frontend_label_0>Global Brand</frontend_label_0>
+            <frontend_label_1>Global Brand</frontend_label_1>
+            <attribute_set>Default</attribute_set>
+            <value>Panasonic</value>
+        </create_attribute>
+    </Item>
+    <Item>
+        <sku>WH12-S-Green</sku>
+        <store_view_code></store_view_code>
+        <attribute_set_code>Default</attribute_set_code>
+        <product_type>simple</product_type>
+        <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+        <product_websites>website_1</product_websites>
+        <name>Circe Hooded Fire Fleece-S-Green</name>
+        <description><![CDATA["<p>Keep shivers at bay with the Circe Hooded Ice Fleece. Ultra-thick, high-pile fleece traps your body heat and keeps cold outside. The drawstring hood and ribbed details add extra coziness and touches of classic style. Its relaxed fit is loose enough to layer comfortably over your shirt.</p><p>Full-zip front. <br />Three-panel hood. <br />Flatlock seams throughout. <br />Welt hand pockets. <br />Machine wash/dry.</p>"]]></description>
+        <short_description></short_description>
+        <weight>1.0000</weight>
+        <product_online>1</product_online>
+        <tax_class_name>Taxable Goods</tax_class_name>
+        <visibility>Not Visible Individually</visibility>
+        <price>68.0000</price>
+        <url_key>circe-hooded-fire-fleece-s-green</url_key>
+        <meta_title></meta_title>
+        <meta_keywords></meta_keywords>
+        <meta_description></meta_description>
+        <thumbnail_image_label></thumbnail_image_label>
+        <swatch_image></swatch_image>
+        <swatch_image_label></swatch_image_label>
+        <created_at>8/2/17, 9:07 AM</created_at>
+        <updated_at>8/2/17, 9:07 AM</updated_at>
+        <new_from_date></new_from_date>
+        <new_to_date></new_to_date>
+        <display_product_options_in>Block after Info Column</display_product_options_in>
+        <map_price></map_price>
+        <msrp_price></msrp_price>
+        <map_enabled></map_enabled>
+        <gift_message_available></gift_message_available>
+        <custom_design></custom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <page_layout></page_layout>
+        <product_options_container></product_options_container>
+        <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+        <country_of_manufacture></country_of_manufacture>
+        <additional_attributes>color=Green,size=S</additional_attributes>
+        <qty>100.0000</qty>
+        <out_of_stock_qty>0.0000</out_of_stock_qty>
+        <use_config_min_qty>1</use_config_min_qty>
+        <is_qty_decimal>0</is_qty_decimal>
+        <allow_backorders>0</allow_backorders>
+        <use_config_backorders>1</use_config_backorders>
+        <min_cart_qty>1.0000</min_cart_qty>
+        <use_config_min_sale_qty>1</use_config_min_sale_qty>
+        <max_cart_qty>0.0000</max_cart_qty>
+        <use_config_max_sale_qty>1</use_config_max_sale_qty>
+        <is_in_stock>1</is_in_stock>
+        <notify_on_stock_below></notify_on_stock_below>
+        <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+        <manage_stock>0</manage_stock>
+        <use_config_manage_stock>1</use_config_manage_stock>
+        <use_config_qty_increments>1</use_config_qty_increments>
+        <qty_increments>0.0000</qty_increments>
+        <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+        <enable_qty_increments>0</enable_qty_increments>
+        <is_decimal_divided>0</is_decimal_divided>
+        <website_id>0</website_id>
+        <related_skus></related_skus>
+        <related_position></related_position>
+        <crosssell_skus></crosssell_skus>
+        <crosssell_position></crosssell_position>
+        <upsell_skus></upsell_skus>
+        <upsell_position></upsell_position>
+        <hide_from_product_page></hide_from_product_page>
+        <bundle_price_type></bundle_price_type>
+        <bundle_sku_type></bundle_sku_type>
+        <bundle_price_view></bundle_price_view>
+        <bundle_weight_type></bundle_weight_type>
+        <bundle_values></bundle_values>
+        <bundle_shipment_type></bundle_shipment_type>
+        <configurable_variations></configurable_variations>
+        <configurable_variation_labels></configurable_variation_labels>
+        <associated_skus></associated_skus>
+        <create_attribute>
+            <attribute_code>global_brand</attribute_code>
+            <frontend_input>select</frontend_input>
+            <is_required>0</is_required>
+            <is_global>1</is_global>
+            <default_value_text>Apple text</default_value_text>
+            <is_unique>0</is_unique>
+            <frontend_class>validate-alphanum</frontend_class>
+            <is_used_in_grid>1</is_used_in_grid>
+            <is_filterable_in_grid>1</is_filterable_in_grid>
+            <is_searchable>1</is_searchable>
+            <search_weight>3</search_weight>
+            <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+            <is_comparable>0</is_comparable>
+            <is_filterable>1</is_filterable>
+            <is_filterable_in_search>1</is_filterable_in_search>
+            <position>2</position>
+            <is_used_for_promo_rules>0</is_used_for_promo_rules>
+            <is_html_allowed_on_front>1</is_html_allowed_on_front>
+            <is_visible_on_front>1</is_visible_on_front>
+            <used_in_product_listing>0</used_in_product_listing>
+            <used_for_sort_by>1</used_for_sort_by>
+            <frontend_label_0>Global Brand</frontend_label_0>
+            <frontend_label_1>Global Brand</frontend_label_1>
+            <attribute_set>Default</attribute_set>
+            <value>Nike</value>
+        </create_attribute>
+    </Item>
+    <Item>
+        <sku>WH13-S-Purple</sku>
+        <store_view_code></store_view_code>
+        <attribute_set_code>Default</attribute_set_code>
+        <product_type>simple</product_type>
+        <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+        <product_websites>website_1</product_websites>
+        <name>Circe Hooded Fire Fleece-S-Purple</name>
+        <description><![CDATA["<p>Keep shivers at bay with the Circe Hooded Ice Fleece. Ultra-thick, high-pile fleece traps your body heat and keeps cold outside. The drawstring hood and ribbed details add extra coziness and touches of classic style. Its relaxed fit is loose enough to layer comfortably over your shirt.</p><p>Full-zip front. <br />Three-panel hood. <br />Flatlock seams throughout. <br />Welt hand pockets. <br />Machine wash/dry.</p>"]]></description>
+        <short_description></short_description>
+        <weight>1.00</weight>
+        <product_online>1</product_online>
+        <tax_class_name>Taxable Goods</tax_class_name>
+        <visibility>Not Visible Individually</visibility>
+        <price>68.0000</price>
+        <url_key>circe-hooded-fire-fleece-s-purple</url_key>
+        <meta_title></meta_title>
+        <meta_keywords></meta_keywords>
+        <meta_description></meta_description>
+        <thumbnail_image_label></thumbnail_image_label>
+        <swatch_image></swatch_image>
+        <swatch_image_label></swatch_image_label>
+        <created_at>8/2/17, 9:07 AM</created_at>
+        <updated_at>8/2/17, 9:07 AM</updated_at>
+        <new_from_date></new_from_date>
+        <new_to_date></new_to_date>
+        <display_product_options_in>Block after Info Column</display_product_options_in>
+        <map_price></map_price>
+        <msrp_price></msrp_price>
+        <map_enabled></map_enabled>
+        <gift_message_available></gift_message_available>
+        <custom_design></custom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <page_layout></page_layout>
+        <product_options_container></product_options_container>
+        <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+        <country_of_manufacture></country_of_manufacture>
+        <additional_attributes>color=Purple,size=S</additional_attributes>
+        <qty>100.0000</qty>
+        <out_of_stock_qty>0.0000</out_of_stock_qty>
+        <use_config_min_qty>1</use_config_min_qty>
+        <is_qty_decimal>0</is_qty_decimal>
+        <allow_backorders>0</allow_backorders>
+        <use_config_backorders>1</use_config_backorders>
+        <min_cart_qty>1.0000</min_cart_qty>
+        <use_config_min_sale_qty>1</use_config_min_sale_qty>
+        <max_cart_qty>0.0000</max_cart_qty>
+        <use_config_max_sale_qty>1</use_config_max_sale_qty>
+        <is_in_stock>1</is_in_stock>
+        <notify_on_stock_below></notify_on_stock_below>
+        <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+        <manage_stock>0</manage_stock>
+        <use_config_manage_stock>1</use_config_manage_stock>
+        <use_config_qty_increments>1</use_config_qty_increments>
+        <qty_increments>0.0000</qty_increments>
+        <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+        <enable_qty_increments>0</enable_qty_increments>
+        <is_decimal_divided>0</is_decimal_divided>
+        <website_id>0</website_id>
+        <related_skus></related_skus>
+        <related_position></related_position>
+        <crosssell_skus></crosssell_skus>
+        <crosssell_position></crosssell_position>
+        <upsell_skus></upsell_skus>
+        <upsell_position></upsell_position>
+        <hide_from_product_page></hide_from_product_page>
+        <bundle_price_type></bundle_price_type>
+        <bundle_sku_type></bundle_sku_type>
+        <bundle_price_view></bundle_price_view>
+        <bundle_weight_type></bundle_weight_type>
+        <bundle_values></bundle_values>
+        <bundle_shipment_type></bundle_shipment_type>
+        <configurable_variations></configurable_variations>
+        <configurable_variation_labels></configurable_variation_labels>
+        <associated_skus></associated_skus>
+        <create_attribute>
+            <attribute_code>global_brand</attribute_code>
+            <frontend_input>select</frontend_input>
+            <is_required>0</is_required>
+            <is_global>1</is_global>
+            <default_value_text>Apple text</default_value_text>
+            <is_unique>0</is_unique>
+            <frontend_class>validate-alphanum</frontend_class>
+            <is_used_in_grid>1</is_used_in_grid>
+            <is_filterable_in_grid>1</is_filterable_in_grid>
+            <is_searchable>1</is_searchable>
+            <search_weight>3</search_weight>
+            <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+            <is_comparable>0</is_comparable>
+            <is_filterable>1</is_filterable>
+            <is_filterable_in_search>1</is_filterable_in_search>
+            <position>2</position>
+            <is_used_for_promo_rules>0</is_used_for_promo_rules>
+            <is_html_allowed_on_front>1</is_html_allowed_on_front>
+            <is_visible_on_front>1</is_visible_on_front>
+            <used_in_product_listing>0</used_in_product_listing>
+            <used_for_sort_by>1</used_for_sort_by>
+            <frontend_label_0>Global Brand</frontend_label_0>
+            <frontend_label_1>Global Brand</frontend_label_1>
+            <attribute_set>Default</attribute_set>
+            <value>Adidas</value>
+        </create_attribute>
+    </Item>
+    <Item>
+        <sku>WH13</sku>
+        <store_view_code></store_view_code>
+        <attribute_set_code>Default</attribute_set_code>
+        <product_type>configurable</product_type>
+        <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+        <product_websites>website_1</product_websites>
+        <name>Circe Hooded Fire Fleece</name>
+        <description><![CDATA["<p>Keep shivers at bay with the Circe Hooded Ice Fleece. Ultra-thick, high-pile fleece traps your body heat and keeps cold outside. The drawstring hood and ribbed details add extra coziness and touches of classic style. Its relaxed fit is loose enough to layer comfortably over your shirt.</p><p>Full-zip front. <br />Three-panel hood. <br />Flatlock seams throughout. <br />Welt hand pockets. <br />Machine wash/dry.</p>"]]></description>
+        <short_description></short_description>
+        <weight></weight>
+        <product_online>1</product_online>
+        <tax_class_name>Taxable Goods</tax_class_name>
+        <visibility>Catalog, Search</visibility>
+        <price>68.0000</price>
+        <url_key></url_key>
+        <meta_title></meta_title>
+        <meta_keywords></meta_keywords>
+        <meta_description></meta_description>
+        <thumbnail_image_label></thumbnail_image_label>
+        <swatch_image></swatch_image>
+        <swatch_image_label></swatch_image_label>
+        <created_at>8/2/17, 9:07 AM</created_at>
+        <updated_at>8/2/17, 9:07 AM</updated_at>
+        <new_from_date></new_from_date>
+        <new_to_date></new_to_date>
+        <display_product_options_in>Block after Info Column</display_product_options_in>
+        <map_price></map_price>
+        <msrp_price></msrp_price>
+        <map_enabled></map_enabled>
+        <gift_message_available></gift_message_available>
+        <custom_design></custom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <page_layout></page_layout>
+        <product_options_container></product_options_container>
+        <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+        <country_of_manufacture></country_of_manufacture>
+        <additional_attributes>climate=Cold|Cool|Wintry,eco_collection=Yes,erin_recommends=No,material=Fleece|CoolTech&amp;trade;,new=No,pattern=Solid,performance_fabric=Yes,sale=No,style_general=Full Zip|Sweatshirt|Hoodie</additional_attributes>
+        <qty>0.0000</qty>
+        <out_of_stock_qty>0.0000</out_of_stock_qty>
+        <use_config_min_qty>1</use_config_min_qty>
+        <is_qty_decimal>0</is_qty_decimal>
+        <allow_backorders>0</allow_backorders>
+        <use_config_backorders>1</use_config_backorders>
+        <min_cart_qty>1.0000</min_cart_qty>
+        <use_config_min_sale_qty>1</use_config_min_sale_qty>
+        <max_cart_qty>0.0000</max_cart_qty>
+        <use_config_max_sale_qty>1</use_config_max_sale_qty>
+        <is_in_stock>1</is_in_stock>
+        <notify_on_stock_below></notify_on_stock_below>
+        <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+        <manage_stock>0</manage_stock>
+        <use_config_manage_stock>1</use_config_manage_stock>
+        <use_config_qty_increments>1</use_config_qty_increments>
+        <qty_increments>0.0000</qty_increments>
+        <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+        <enable_qty_increments>0</enable_qty_increments>
+        <is_decimal_divided>0</is_decimal_divided>
+        <website_id>0</website_id>
+        <related_skus></related_skus>
+        <related_position></related_position>
+        <crosssell_skus></crosssell_skus>
+        <crosssell_position></crosssell_position>
+        <upsell_skus></upsell_skus>
+        <upsell_position></upsell_position>
+        <hide_from_product_page></hide_from_product_page>
+        <bundle_price_type></bundle_price_type>
+        <bundle_sku_type></bundle_sku_type>
+        <bundle_price_view></bundle_price_view>
+        <bundle_weight_type></bundle_weight_type>
+        <bundle_values></bundle_values>
+        <bundle_shipment_type></bundle_shipment_type>
+        <configurable_variations>sku=WH13-XS-Gray,size=XS|sku=WH13-XS-Green,size=XS|sku=WH13-XS-Purple,size=XS|sku=WH13-S-Gray,size=S|sku=WH13-S-Green,size=S|sku=WH13-S-Purple,size=S</configurable_variations>
+        <configurable_variation_labels></configurable_variation_labels>
+        <associated_skus></associated_skus>
+    </Item>
+</Items>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Categories>
+    <Category>
+        <name>Default Category/Women/Clothing1</name>
+        <url_key>clothing_1</url_key>
+        <description><![CDATA[Discover the latest womenâs clothing. Browse for dresses, tops, skirts and much more.
+]]></description>
+        <is_active>1</is_active>
+        <include_in_menu>0</include_in_menu>
+        <is_anchor>1</is_anchor>
+        <custom_layout_update></custom_layout_update>
+    </Category>
+    <Category>
+        <name>Default Category/Women/Accessories1</name>
+        <url_key>accessories_1</url_key>
+        <description><![CDATA[Our stores bring you their very top picks for bags, purses, belts, scarves and hats.]]></description>
+        <is_active>0</is_active>
+        <include_in_menu>1</include_in_menu>
+        <is_anchor>1</is_anchor>
+        <custom_layout_update></custom_layout_update>
+    </Category>
+    <Category>
+        <name>Default Category/Men/Bags1</name>
+        <url_key>bags_1</url_key>
+        <description><![CDATA[At SugarTrends, we’ve got the essential men’s bags for any occasion. Men’s sling bags, backpacks and shoulder bags, we’ve got everything you need for your holiday or work.]]></description>
+        <is_active>1</is_active>
+        <include_in_menu>1</include_in_menu>
+        <is_anchor>1</is_anchor>
+        <custom_layout_update></custom_layout_update>
+    </Category>
+    <Category>
+        <name>Default Category/Men/Grooming</name>
+        <url_key>grooming_1</url_key>
+        <description><![CDATA[Discover the latest in men’s grooming with SugarTrends. Browse our selection of fragrances, soaps, moisturizers and more.]]></description>
+        <is_active>1</is_active>
+        <include_in_menu>1</include_in_menu>
+        <is_anchor>1</is_anchor>
+        <custom_layout_update></custom_layout_update>
+    </Category>
+</Categories>
