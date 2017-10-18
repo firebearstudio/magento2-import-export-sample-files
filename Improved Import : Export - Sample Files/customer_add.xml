@@ -7,7 +7,7 @@
         <confirmation></confirmation>
         <created_at>2015-10-30 12:49:47</created_at>
         <created_in>Default Store View</created_in>
-        <disable_auto_group_change></disable_auto_group_change>
+        <disable_auto_group_change>0</disable_auto_group_change>
         <dob></dob>
         <firstname>Jon</firstname>
         <gender>Male</gender>
