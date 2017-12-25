@@ -6,6 +6,7 @@
         <tier_price_customer_group>General</tier_price_customer_group>
         <tier_price_qty>2</tier_price_qty>
         <tier_price>10</tier_price>
+        <tier_price_value_type>Fixed</tier_price_value_type>
     </item>
     <item>
         <sku>24-WG086</sku>
@@ -13,11 +14,6 @@
         <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
         <tier_price_qty>3</tier_price_qty>
         <tier_price>15</tier_price>
-    </item>
-    <item>
-        <sku>24-WG087</sku>
-    </item>
-    <item>
-        <sku>24-WG085_Group</sku>
+         <tier_price_value_type>Fixed</tier_price_value_type>
     </item>
 </Items>

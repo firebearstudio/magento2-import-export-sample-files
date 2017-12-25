@@ -5,12 +5,12 @@
         <store_view_code></store_view_code>
         <attribute_set_code>Default</attribute_set_code>
         <product_type>simple</product_type>
-        <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+        <categories>1/2/3,1/2/3/4</categories>
         <product_websites>base</product_websites>
         <name>Sprite Yoga Strap 11 hand</name>
         <description><![CDATA[<p>The Sprite Yoga Strap is your untiring partner in demanding stretches, holds and alignment routines. The strap's 100% organic cotton fabric is woven tightly to form a soft, textured yet non-slip surface. The plastic clasp buckle is easily adjustable, lightweight and urable under strain.</p><ul><li>100% soft and durable cotton.<li>Plastic cinch buckle is easy to use.<li>Three natural colors made from phthalate and heavy metal free dyes.</ul>]]></description>
         <short_description><![CDATA[]]></short_description>
-        <weight>0</weight>
+        <weight>1</weight>
         <product_online>1</product_online>
         <tax_class_name>Taxable Goods</tax_class_name>
         <visibility>Catalog, Search</visibility>
@@ -80,7 +80,7 @@
         <store_view_code></store_view_code>
         <attribute_set_code>Default</attribute_set_code>
         <product_type>simple</product_type>
-        <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+        <categories>1/2/3,1/2/3/4</categories>
         <product_websites>base</product_websites>
         <name>Sprite Yoga Strap 12 hand</name>
         <description><![CDATA[<p>The Sprite Yoga Strap is your untiring partner in demanding stretches, holds and alignment routines. The strap's 100% organic cotton fabric is woven tightly to form a soft, textured yet non-slip surface. The plastic clasp buckle is easily adjustable, lightweight and urable under strain.</p><ul><li>100% soft and durable cotton.<li>Plastic cinch buckle is easy to use.<li>Three natural colors made from phthalate and heavy metal free dyes.</ul>]]></description>
@@ -93,7 +93,7 @@
         <special_price></special_price>
         <special_price_from_date></special_price_from_date>
         <special_price_to_date></special_price_to_date>
-        <url_key>sprite-yoga-strap-11-hhandurio</url_key>
+        <url_key>sprite-yoga-strap-11-handb</url_key>
         <meta_title>Meta Title</meta_title>
         <meta_keywords>meta1, meta2, meta3</meta_keywords>
         <meta_description>meta description</meta_description>
