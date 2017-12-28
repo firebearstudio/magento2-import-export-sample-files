@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <item>
+        <sku>24-WG085</sku>
+        <tier_price_website>base</tier_price_website>
+        <tier_price_customer_group>General</tier_price_customer_group>
+        <tier_price_qty>2</tier_price_qty>
+        <tier_price>10</tier_price>
+    </item>
+    <item>
+        <sku>24-WG086</sku>
+        <tier_price_website>All Websites [USD]</tier_price_website>
+        <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+        <tier_price_qty>3</tier_price_qty>
+        <tier_price>15</tier_price>
+    </item>
+</Items>
