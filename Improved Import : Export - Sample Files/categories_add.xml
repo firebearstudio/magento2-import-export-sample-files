@@ -1,40 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Categories>
     <Category>
-        <name>Default Category/Women/Clothing1</name>
-        <url_key>clothing_1</url_key>
-        <description><![CDATA[Discover the latest womenâs clothing. Browse for dresses, tops, skirts and much more.
-]]></description>
-        <is_active>1</is_active>
-        <include_in_menu>0</include_in_menu>
-        <is_anchor>1</is_anchor>
+        <name>Default Category/Shop</name>
+        <image></image>
+        <url_path>shop</url_path>
+        <available_sort_by></available_sort_by>
+        <custom_apply_to_products></custom_apply_to_products>
+        <ustom_design></ustom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
         <custom_layout_update></custom_layout_update>
+        <custom_use_parent_settings></custom_use_parent_settings>
+        <default_sort_by></default_sort_by>
+        <description></description>
+        <display_mode></display_mode>
+        <filter_price_range>Yes</filter_price_range>
+        <include_in_menu>Yes</include_in_menu>
+        <is_active>Yes</is_active>
+        <is_anchor></is_anchor>
+        <landing_page></landing_page>
+        <meta_description></meta_description>
+        <meta_keywords></meta_keywords>
+        <meta_title></meta_title>
+        <page_layout></page_layout>
+        <path>1/2/527</path>
+        <path_in_store></path_in_store>
+        <position>12</position>
+        <url_key>shop</url_key>
     </Category>
     <Category>
-        <name>Default Category/Women/Accessories1</name>
-        <url_key>accessories_1</url_key>
-        <description><![CDATA[Our stores bring you their very top picks for bags, purses, belts, scarves and hats.]]></description>
-        <is_active>0</is_active>
-        <include_in_menu>1</include_in_menu>
-        <is_anchor>1</is_anchor>
+        <name>Default Category/LED Bulbs</name>
+        <image></image>
+        <url_path>led-bulbs</url_path>
+        <available_sort_by></available_sort_by>
+        <custom_apply_to_products></custom_apply_to_products>
+        <ustom_design></ustom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
         <custom_layout_update></custom_layout_update>
+        <custom_use_parent_settings></custom_use_parent_settings>
+        <default_sort_by></default_sort_by>
+        <description></description>
+        <display_mode></display_mode>
+        <filter_price_range>Yes</filter_price_range>
+        <include_in_menu>Yes</include_in_menu>
+        <is_active>Yes</is_active>
+        <is_anchor></is_anchor>
+        <landing_page></landing_page>
+        <meta_description></meta_description>
+        <meta_keywords></meta_keywords>
+        <meta_title></meta_title>
+        <page_layout></page_layout>
+        <path>1/2/1362</path>
+        <path_in_store></path_in_store>
+        <position>13</position>
+        <url_key>led-bulbs</url_key>
     </Category>
     <Category>
-        <name>Default Category/Men/Bags1</name>
-        <url_key>bags_1</url_key>
-        <description><![CDATA[At SugarTrends, we’ve got the essential men’s bags for any occasion. Men’s sling bags, backpacks and shoulder bags, we’ve got everything you need for your holiday or work.]]></description>
-        <is_active>1</is_active>
-        <include_in_menu>1</include_in_menu>
-        <is_anchor>1</is_anchor>
+        <name>Default Category/LED Bulbs/LED Spotlights</name>
+        <image></image>
+        <url_path>led-bulbs/led-spotlights</url_path>
+        <available_sort_by></available_sort_by>
+        <custom_apply_to_products></custom_apply_to_products>
+        <ustom_design></ustom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
         <custom_layout_update></custom_layout_update>
+        <custom_use_parent_settings></custom_use_parent_settings>
+        <default_sort_by></default_sort_by>
+        <description></description>
+        <display_mode></display_mode>
+        <filter_price_range>Yes</filter_price_range>
+        <include_in_menu>Yes</include_in_menu>
+        <is_active>Yes</is_active>
+        <is_anchor></is_anchor>
+        <landing_page></landing_page>
+        <meta_description></meta_description>
+        <meta_keywords></meta_keywords>
+        <meta_title></meta_title>
+        <page_layout></page_layout>
+        <path>1/2/1362/1363</path>
+        <path_in_store></path_in_store>
+        <position>1</position>
+        <url_key>led-spotlights</url_key>
     </Category>
     <Category>
-        <name>Default Category/Men/Grooming</name>
-        <url_key>grooming_1</url_key>
-        <description><![CDATA[Discover the latest in men’s grooming with SugarTrends. Browse our selection of fragrances, soaps, moisturizers and more.]]></description>
-        <is_active>1</is_active>
-        <include_in_menu>1</include_in_menu>
-        <is_anchor>1</is_anchor>
+        <name>Default Category/LED Bulbs/LED Spotlights/LED GU10 Bulbs</name>
+        <image></image>
+        <url_path>led-bulbs/led-spotlights/led-gu10-bulbs</url_path>
+        <available_sort_by></available_sort_by>
+        <custom_apply_to_products></custom_apply_to_products>
+        <ustom_design></ustom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
         <custom_layout_update></custom_layout_update>
+        <custom_use_parent_settings></custom_use_parent_settings>
+        <default_sort_by></default_sort_by>
+        <description></description>
+        <display_mode></display_mode>
+       <filter_price_range>Yes</filter_price_range>
+        <include_in_menu>Yes</include_in_menu>
+        <is_active>Yes</is_active>
+        <is_anchor></is_anchor>
+        <landing_page></landing_page>
+        <meta_description></meta_description>
+        <meta_keywords></meta_keywords>
+        <meta_title></meta_title>
+        <page_layout></page_layout>
+        <path>1/2/1362/1363/1364</path>
+        <path_in_store></path_in_store>
+        <position>1</position>
+        <url_key>led-gu10-bulbs</url_key>
+    </Category>
+    <Category>
+        <name>Default Category/Enclosures</name>
+        <image></image>
+        <url_path>enclosures</url_path>
+        <available_sort_by></available_sort_by>
+        <custom_apply_to_products></custom_apply_to_products>
+        <ustom_design></ustom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <custom_use_parent_settings></custom_use_parent_settings>
+        <default_sort_by></default_sort_by>
+        <description></description>
+        <display_mode></display_mode>
+       <filter_price_range>Yes</filter_price_range>
+        <include_in_menu>Yes</include_in_menu>
+        <is_active>Yes</is_active>
+        <is_anchor></is_anchor>
+        <landing_page></landing_page>
+        <meta_description></meta_description>
+        <meta_keywords></meta_keywords>
+        <meta_title></meta_title>
+        <page_layout></page_layout>
+        <path>1/2/1365</path>
+        <path_in_store></path_in_store>
+        <position>14</position>
+        <url_key>enclosures</url_key>
+    </Category>
+    <Category>
+        <name>Default Category/Enclosures/Floor Standing</name>
+        <image></image>
+        <url_path>enclosures/floor-standing</url_path>
+        <available_sort_by></available_sort_by>
+        <custom_apply_to_products></custom_apply_to_products>
+        <ustom_design></ustom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <custom_use_parent_settings></custom_use_parent_settings>
+        <default_sort_by></default_sort_by>
+        <description></description>
+        <display_mode></display_mode>
+        <filter_price_range>Yes</filter_price_range>
+        <include_in_menu>Yes</include_in_menu>
+        <is_active>Yes</is_active>
+        <is_anchor></is_anchor>
+        <landing_page></landing_page>
+        <meta_description></meta_description>
+        <meta_keywords></meta_keywords>
+        <meta_title></meta_title>
+        <page_layout></page_layout>
+        <path>1/2/1365/1366</path>
+        <path_in_store></path_in_store>
+        <position>1</position>
+        <url_key>floor-standing</url_key>
     </Category>
 </Categories>

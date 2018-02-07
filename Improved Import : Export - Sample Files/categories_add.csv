@@ -1,5 +1,7 @@
-name,url_key,description,is_active,include_in_menu,is_anchor,custom_layout_update
-"Default Category/Women/Clothing",clothing,"Discover the latest women’s clothing. Browse for dresses, tops, skirts and much more.",1,0,1,
-"Default Category/Women/Accessories",accessories,"Our stores bring you their very top picks for bags, purses, belts, scarves and hats.",1,1,1,
-"Default Category/Men/Bags",bags,"At SugarTrends, we’ve got the essential men’s bags for any occasion. Men’s sling bags, backpacks and shoulder bags, we’ve got everything you need for your holiday or work.",0,1,1,
-"Default Category/Men/Grooming",grooming,"Discover the latest in men’s grooming with SugarTrends. Browse our selection of fragrances, soaps, moisturizers and more.",1,1,1,
+name,image,url_path,available_sort_by,custom_apply_to_products,custom_design,custom_design_from,custom_design_to,custom_layout_update,custom_use_parent_settings,default_sort_by,description,display_mode,filter_price_range,include_in_menu,is_active,is_anchor,landing_page,meta_description,meta_keywords,meta_title,page_layout,path,path_in_store,position,url_key
+"Default Category/Shop",,shop,,,,,,,,,,,,Yes,Yes,Yes,,,,,,1/2/527,,12,shop
+"Default Category/LED Bulbs",,led-bulbs,,,,,,,,,,,,Yes,Yes,Yes,,,,,,1/2/1362,,13,led-bulbs
+"Default Category/LED Bulbs/LED Spotlights",,led-bulbs/led-spotlights,,,,,,,,,,,,Yes,Yes,Yes,,,,,,1/2/1362/1363,,1,led-spotlights
+"Default Category/LED Bulbs/LED Spotlights/LED GU10 Bulbs",,led-bulbs/led-spotlights/led-gu10-bulbs,,,,,,,,,,,,Yes,Yes,Yes,,,,,,1/2/1362/1363/1364,,1,led-gu10-bulbs
+"Default Category/Enclosures",,enclosures,,,,,,,,,,,,Yes,Yes,Yes,,,,,,1/2/1365,,14,enclosures
+"Default Category/Enclosures/Floor Standing",,enclosures/floor-standing,,,,,,,,,,,,Yes,Yes,Yes,,,,,,1/2/1365/1366,,1,floor-standing
