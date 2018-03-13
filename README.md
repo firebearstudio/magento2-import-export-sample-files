@@ -13,7 +13,7 @@ Up to date default <a href="https://github.com/magento/magento2/">Magento 2 CE i
 <a href="https://firebearstudio.com/blog/magento-2-google-sheet-import.html" title="Magento 2 Google Sheet Import
 ">Magento 2 Google Sheet Import</a>
 
-<img src="https://www.dropbox.com/s/6g1bhchpjvzirsq/Screenshot%202018-03-13%2000.58.39.png?dl=1" /></a>
+<img src="https://i.imgur.com/hxXZrKf.png" /></a>
 
 <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export"><img src="https://firebearstudio.com/media/catalog/product/cache/1/small_image/040ec09b1e35df139433887a97daa66f/i/m/improved_mport_export_magento_2_flow_example_cron_mapping_xml_1.png" /></a>
 
