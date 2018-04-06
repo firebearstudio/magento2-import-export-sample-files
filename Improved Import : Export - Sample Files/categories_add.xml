@@ -2,7 +2,39 @@
 <Categories>
     <Category>
         <name>Default Category/Shop</name>
-        <image></image>
+        <store_view></store_view>
+        <store_name></store_name>
+        <image>http://magspace.ru/uploads/2010/09/10/auto_10-105f648516d9.jpg</image>
+        <url_path>shop</url_path>
+        <available_sort_by></available_sort_by>
+        <custom_apply_to_products></custom_apply_to_products>
+        <ustom_design></ustom_design>
+        <custom_design_from></custom_design_from>
+        <custom_design_to></custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <custom_use_parent_settings></custom_use_parent_settings>
+        <default_sort_by></default_sort_by>
+        <description></description>
+        <display_mode></display_mode>
+        <filter_price_range>Yes</filter_price_range>
+        <include_in_menu>Yes</include_in_menu>
+        <is_active>Yes</is_active>
+        <is_anchor></is_anchor>
+        <landing_page></landing_page>
+        <meta_description></meta_description>
+        <meta_keywords></meta_keywords>
+        <meta_title></meta_title>
+        <page_layout></page_layout>
+        <path>1/2/527</path>
+        <path_in_store></path_in_store>
+        <position>12</position>
+        <url_key>shop</url_key>
+    </Category>
+    <Category>
+        <name>Default Category/Shop</name>
+        <store_view>uk</store_view>
+        <store_name>Shopik</store_name>
+        <image>http://magspace.ru/uploads/2010/09/10/auto_10-105f648516d9.jpg</image>
         <url_path>shop</url_path>
         <available_sort_by></available_sort_by>
         <custom_apply_to_products></custom_apply_to_products>
@@ -30,7 +62,9 @@
     </Category>
     <Category>
         <name>Default Category/LED Bulbs</name>
-        <image></image>
+        <store_view></store_view>
+        <store_name></store_name>
+        <image>http://magspace.ru/uploads/2010/09/10/auto_10-105f648516d9.jpg</image>
         <url_path>led-bulbs</url_path>
         <available_sort_by></available_sort_by>
         <custom_apply_to_products></custom_apply_to_products>
@@ -58,7 +92,9 @@
     </Category>
     <Category>
         <name>Default Category/LED Bulbs/LED Spotlights</name>
-        <image></image>
+        <store_view></store_view>
+        <store_name></store_name>
+        <image>http://magspace.ru/uploads/2010/09/10/auto_10-105f648516d9.jpg</image>
         <url_path>led-bulbs/led-spotlights</url_path>
         <available_sort_by></available_sort_by>
         <custom_apply_to_products></custom_apply_to_products>
@@ -86,7 +122,9 @@
     </Category>
     <Category>
         <name>Default Category/LED Bulbs/LED Spotlights/LED GU10 Bulbs</name>
-        <image></image>
+        <store_view></store_view>
+        <store_name></store_name>
+        <image>http://magspace.ru/uploads/2010/09/10/auto_10-105f648516d9.jpg</image>
         <url_path>led-bulbs/led-spotlights/led-gu10-bulbs</url_path>
         <available_sort_by></available_sort_by>
         <custom_apply_to_products></custom_apply_to_products>
@@ -114,7 +152,9 @@
     </Category>
     <Category>
         <name>Default Category/Enclosures</name>
-        <image></image>
+        <store_view></store_view>
+        <store_name></store_name>
+        <image>http://magspace.ru/uploads/2010/09/10/auto_10-105f648516d9.jpg</image>
         <url_path>enclosures</url_path>
         <available_sort_by></available_sort_by>
         <custom_apply_to_products></custom_apply_to_products>
@@ -142,7 +182,9 @@
     </Category>
     <Category>
         <name>Default Category/Enclosures/Floor Standing</name>
-        <image></image>
+        <store_view></store_view>
+        <store_name></store_name>
+        <image>http://magspace.ru/uploads/2010/09/10/auto_10-105f648516d9.jpg</image>
         <url_path>enclosures/floor-standing</url_path>
         <available_sort_by></available_sort_by>
         <custom_apply_to_products></custom_apply_to_products>
