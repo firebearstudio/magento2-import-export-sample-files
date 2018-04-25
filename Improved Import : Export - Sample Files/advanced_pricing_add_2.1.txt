@@ -1,3 +1,0 @@
-sku,tier_price_website,tier_price_customer_group,tier_price_qty,tier_price
-24-WG085,base,General,2,10
-24-WG086,All Websites [USD],ALL GROUPS,3,15
