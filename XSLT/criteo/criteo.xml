@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <channel>
+        <title>Your Website</title>
+        <link>http://www.yoursite.com/us/</link>
+        <description>Your Website</description>
+        <item>
+            <g:id>myproductid</g:id>
+            <g:title>Working Boots Size 7.5</g:title>
+            <g:description>Excellent for daily use</g:description>
+            <g:google_product_category>Women’s > Shoes > Working Boots</g:google_product_category>
+            <g:link>http://www.example.com/product/working-boots</g:link>
+            <g:image_link>
+                http://www.shotsmedia.nl/xml_images/TT96602_1.jpg
+            </g:image_link>
+            <g:additional_image_link>
+                http://www.shotsmedia.nl/xml_images/50007_1.jpg
+            </g:additional_image_link>
+            <g:additional_image_link>
+                http://www.shotsmedia.nl/xml_images/SHT016-3_1.jpg
+            </g:additional_image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>1299.99 EUR</g:price>
+            <g:sale_price>1199.99</g:sale_price>
+            <g:gtin>0001234560012</g:gtin>
+            <g:brand>Criteo</g:brand>
+            <g:adult>TRUE</g:adult>
+            <g:product_type>Women’s > Shoes > Working Boots</g:product_type>
+            <g:mobile_link>http://m.example.com/product/working-boots</g:mobile_link>
+            <g:condition>new</g:condition>
+            <g:availability>in stock</g:availability>
+            <g:availability_date>2016-06-25T13:00-0800</g:availability_date>
+            <g:sale_price_effective_date>2016-03-01T13:00-0800/2016-03-11T15:30-0800</g:sale_price_effective_date>
+            <g:item_group_id>abc123</g:item_group_id>
+            <g:color>Black</g:color>
+            <g:gender>male</g:gender>
+            <g:age_group>adult</g:age_group>
+            <g:material>leather</g:material>
+            <g:pattern>Striped</g:pattern>
+            <g:size>L</g:size>
+            <g:size_type>regular</g:size_type>
+            <g:size_system>US</g:size_system>
+            <g:shipping>...</g:shipping>
+            <g:shipping_weight>1 kg</g:shipping_weight>
+            <g:shipping_label>promotion</g:shipping_label>
+            <g:multipack>2</g:multipack>
+            <g:is_bundle>FALSE</g:is_bundle>
+            <g:custom_label_0>custom data 0</g:custom_label_0>
+            <g:custom_label_1>custom data 1</g:custom_label_1>
+            <g:custom_label_2>custom data 2</g:custom_label_2>
+            <g:custom_label_3>custom data 3</g:custom_label_3>
+            <g:custom_label_4>custom data 4</g:custom_label_4>
+            <g:sale_price_effective_date>2016-03-01T13:00-0800/2016-03-11T15:30-0800</g:sale_price_effective_date>
+            <g:adwords_redirect>http://www.mywebsite.com/productpage.html</g:adwords_redirect>
+            <g:excluded_destination>Shopping</g:excluded_destination>
+            <g:expiration_date>2016-07-24</g:expiration_date>
+            <g:unit_pricing_measure>15oz</g:unit_pricing_measure>
+            <g:unit_pricing_base_measure>50oz</g:unit_pricing_base_measure>
+        </item>
+        <item>
+            <g:id>1H3</g:id>
+            <g:title>Working Boots Size 7.7</g:title>
+            <g:description>Excellent for daily use</g:description>
+            <g:google_product_category>Women’s > Shoes > Working Boots</g:google_product_category>
+            <g:link>http://www.example.com/product/working-boots22</g:link>
+            <g:image_link>
+                http://www.shotsmedia.nl/xml_images/SHT016-2_1.jpg
+            </g:image_link>
+            <g:additional_image_link>
+                http://www.shotsmedia.nl/xml_images/SHT016-1_1.jpg
+            </g:additional_image_link>
+            <g:additional_image_link>
+                http://www.shotsmedia.nl/xml_images/50063_1.jpg
+            </g:additional_image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>130 EUR</g:price>
+            <g:sale_price>1199.99</g:sale_price>
+            <g:gtin>0001234560012</g:gtin>
+            <g:brand>Criteo</g:brand>
+            <g:adult>TRUE</g:adult>
+            <g:product_type>Women’s > Shoes > Working Boots</g:product_type>
+            <g:mobile_link>http://m.example.com/product/working-boots</g:mobile_link>
+            <g:condition>new</g:condition>
+            <g:availability>in stock</g:availability>
+            <g:availability_date>2016-06-25T13:00-0800</g:availability_date>
+            <g:sale_price_effective_date>2016-03-01T13:00-0800/2016-03-11T15:30-0800</g:sale_price_effective_date>
+            <g:item_group_id>abc123</g:item_group_id>
+            <g:color>Black</g:color>
+            <g:gender>male</g:gender>
+            <g:age_group>adult</g:age_group>
+            <g:material>leather</g:material>
+            <g:pattern>Striped</g:pattern>
+            <g:size>L</g:size>
+            <g:size_type>regular</g:size_type>
+            <g:size_system>US</g:size_system>
+            <g:shipping>...</g:shipping>
+            <g:shipping_weight>1 kg</g:shipping_weight>
+            <g:shipping_label>promotion</g:shipping_label>
+            <g:multipack>2</g:multipack>
+            <g:is_bundle>FALSE</g:is_bundle>
+            <g:custom_label_0>custom data 0</g:custom_label_0>
+            <g:custom_label_1>custom data 1</g:custom_label_1>
+            <g:custom_label_2>custom data 2</g:custom_label_2>
+            <g:custom_label_3>custom data 3</g:custom_label_3>
+            <g:custom_label_4>custom data 4</g:custom_label_4>
+            <g:sale_price_effective_date>2016-03-01T13:00-0800/2016-03-11T15:30-0800</g:sale_price_effective_date>
+            <g:adwords_redirect>http://www.mywebsite.com/productpage.html</g:adwords_redirect>
+            <g:excluded_destination>Shopping</g:excluded_destination>
+            <g:expiration_date>2016-07-24</g:expiration_date>
+            <g:unit_pricing_measure>15oz</g:unit_pricing_measure>
+            <g:unit_pricing_base_measure>50oz</g:unit_pricing_base_measure>
+        </item>
+    </channel>
+</rss>
