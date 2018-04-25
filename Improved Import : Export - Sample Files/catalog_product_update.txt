@@ -1,4 +1,0 @@
-sku,qty,product_type
-24-WG085,30,simple
-24-WG086,40,simple
-24-WG087,50,simple
