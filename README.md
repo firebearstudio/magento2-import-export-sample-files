@@ -1,15 +1,11 @@
 # Magento2 import / export sample files
 
 <p>In this repository we have gathered all sample files for Magento 2 import and export procedures. Every file has been tested with the different Magento 2 versions and latest release of <b><a href="https://firebearstudio.com/the-improved-import.html">Improved Import and Export extension</a></b>.</p>
-<p>Feel free to take full advantage of the sample files to learn what Magento 2 product attributes are required for successful import. Learn how to compose CSV, XML and Json tables if you are using Improved Import and Export extension.</p>
-<p>Make sure to bookmark this page. The sample file list is updated often with every release of Improved Import and Export extension.</p>
+<p align="center" />If you are new to the import process - start by reading <b><a href="https://firebearstudio.com/blog/the-complete-guide-to-magento-2-product-import-export.html">FireBear Studio Magento 2 import guide</a></b>.</p>
 
 <p align="center" />Up to date default <a href="https://github.com/magento/magento2/">Magento 2 Open Source (CE) & Commerce (EE, Cloud) import</a> / export CSV files &amp; sample files for <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export">Firebear Improved Import / Export extension</a> (CSV, XML, Json)</p>
 
-<p>If you are new to Magento 2 import and export - start by reading FireBear guide to import process. In this guide you will learn basic terms and conditions of the import process, understand how to compose import tables and how to adjust product attributes.</p>
-<p align="center" /><b><a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide">Read Magento 2 import guide</a></b></p>
-
-<h2>Introducing Imroved Import and Export extension for Magento 2</h2>
+<h2><a href="https://firebearstudio.com/the-improved-import.html">Imroved Import and Export extension for Magento 2</a></h2>
 <ul>
   <li>If you are looking for the way to automate import and export procedures</li>
   <li>If you want to import from XML, CSV or Json files</li>
@@ -18,7 +14,7 @@
 </ul>
 <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide"><img src="https://firebearstudio.com/media/catalog/product/cache/1/small_image/040ec09b1e35df139433887a97daa66f/m/a/magento2importflow.png" /></a>
 
-<h3>What is it?</h3>
+<h3>What is the extension</h3>
 <ul>
   <li><b>Improved Import and Export is a Magento 2 extension</b> - meaning all the management process takes place in the administrator panel. You are not tied to the third party applications and don't have to run anything in the background.</li>
   <li><b>The extension is open code</b> - meaning that you can make necessary code adjustments and even improve existing functionality the way you like.</li>
