@@ -36,7 +36,6 @@
 <a href="https://docs.google.com/spreadsheets/d/13FemIzzexF5koAdQYjbcKscqoCfXyknYWkQkbSZGPsk/edit#gid=1164219475" title="Magento 2 Google Sheet Import
 "><img src="https://i.imgur.com/hxXZrKf.png" /></a>
 
-<a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export"><img src="https://firebearstudio.com/media/catalog/product/cache/1/small_image/040ec09b1e35df139433887a97daa66f/i/m/improved_mport_export_magento_2_flow_example_cron_mapping_xml_1.png" /></a>
 <h2>Magento 2 Improved Import and Export Roadmap</h2>
 <ul>
 <li>Full REST API support - import any XML or JSON data from REST API with automatic authorization, data mapping, and processing. Establish flexible connection to any system.</li>
