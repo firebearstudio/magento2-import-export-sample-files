@@ -1,13 +1,13 @@
 # Magento2 import / export sample files
 
-<p>In this repository we have gathered all sample files for Magento 2 import and export procedures. Every file has been tested with the different Magento 2 versions and latest release of Improved Import and Export extension.</p>
+<p>In this repository we have gathered all sample files for Magento 2 import and export procedures. Every file has been tested with the different Magento 2 versions and latest release of <b><a href="https://firebearstudio.com/the-improved-import.html">Improved Import and Export extension</a></b>.</p>
 <p>Feel free to take full advantage of the sample files to learn what Magento 2 product attributes are required for successful import. Learn how to compose CSV, XML and Json tables if you are using Improved Import and Export extension.</p>
 <p>Make sure to bookmark this page. The sample file list is updated often with every release of Improved Import and Export extension.</p>
 
-<p align="center" />Up to date default <a href="https://github.com/magento/magento2/">Magento 2 Open Source (CE) & Commerce (EE, Cloud) import</a> / export CSV files &amp; sample files for <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export">Firebear Improved Import / Export extension</a> (CSV, XML, TXT)</p>
+<p align="center" />Up to date default <a href="https://github.com/magento/magento2/">Magento 2 Open Source (CE) & Commerce (EE, Cloud) import</a> / export CSV files &amp; sample files for <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export">Firebear Improved Import / Export extension</a> (CSV, XML, Json)</p>
 
 <p>If you are new to Magento 2 import and export - start by reading FireBear guide to import process. In this guide you will learn basic terms and conditions of the import process, understand how to compose import tables and how to adjust product attributes.</p>
-<p align="center" /><a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide"></p>
+<p align="center" /><b><a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide">Read Magento 2 import guide</a></b></p>
 
 <h2>Introducing Imroved Import and Export extension for Magento 2</h2>
 <ul>
