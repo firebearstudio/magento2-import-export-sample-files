@@ -1,8 +1,8 @@
 # Magento2 import / export sample files
 
-In this repository we have gathered all sample files for Magento 2 import and export procedures. Every file has been tested with the different Magento 2 versions and latest release of Improved Import and Export extension.
-Feel free to take full advantage of the sample files to learn what Magento 2 product attributes are required for successful import. Learn how to compose CSV, XML and Json tables if you are using Improved Import and Export extension.
-Make sure to bookmark this page. The sample file list is updated often with every release of Improved Import and Export extension.
+<p>In this repository we have gathered all sample files for Magento 2 import and export procedures. Every file has been tested with the different Magento 2 versions and latest release of Improved Import and Export extension.</p>
+<p>Feel free to take full advantage of the sample files to learn what Magento 2 product attributes are required for successful import. Learn how to compose CSV, XML and Json tables if you are using Improved Import and Export extension.</p>
+<p>Make sure to bookmark this page. The sample file list is updated often with every release of Improved Import and Export extension.</p>
 
 <p align="center" />Up to date default <a href="https://github.com/magento/magento2/">Magento 2 Open Source (CE) & Commerce (EE, Cloud) import</a> / export CSV files &amp; sample files for <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export">Firebear Improved Import / Export extension</a> (CSV, XML, TXT)</p>
 
@@ -10,11 +10,12 @@ Make sure to bookmark this page. The sample file list is updated often with ever
 <p align="center" /><a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide"></p>
 
 <h2>Introducing Imroved Import and Export extension for Magento 2</h2>
-If you are looking for the way to automate import and export procedures
-If you want to import from XML, CSV or Json files
-If you need to map attributes and categories
-If you require order, category, cart price rule import
-
+<ul>
+  <li>If you are looking for the way to automate import and export procedures</li>
+  <li>If you want to import from XML, CSV or Json files</li>
+  <li>If you need to map attributes and categories</li>
+  <li>If you require order, category, cart price rule import</li>
+</ul>
 <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide"><img src="https://firebearstudio.com/media/catalog/product/cache/1/small_image/040ec09b1e35df139433887a97daa66f/m/a/magento2importflow.png" /></a>
 
 <h3>What is it?</h3>
