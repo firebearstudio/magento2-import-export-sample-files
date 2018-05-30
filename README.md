@@ -25,12 +25,13 @@
 
 <p align="center" /><a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide"><img src="https://firebearstudio.com/blog/wp-content/uploads/2016/06/import-mapping-cron-magento2.png" /></a></p>
 
+<h3>Magento 2 Google Sheets import</h3>
 
-
-<a href="https://docs.google.com/spreadsheets/d/13FemIzzexF5koAdQYjbcKscqoCfXyknYWkQkbSZGPsk/edit#gid=1164219475" title="Google Sheet Master Table for Magento 2 Import">Google Sheet Master Table for Magento 2 Import</a>
-
-<a href="https://firebearstudio.com/blog/magento-2-google-sheet-import.html" title="Magento 2 Google Sheet Import
-">Magento 2 Google Sheet Import</a>
+<p>Improved Import and Export extension for Magento 2 allows importing CSV files directly from the Google Sheets. You can edit the file with your colleagues or supplier, paste it into the import job and schedule it to run automatically.</p>
+<p align="center" /><a href="https://firebearstudio.com/blog/magento-2-google-sheet-import.html" title="Magento 2 Google Sheet Import
+">Read more about Magento 2 Google Sheet Import</a></p>
+<p>We have also composed a Master Google Sheet table for Magento 2 where gathered all possible import entities. Every attribute comes with a description and samples. Feel free adding it to your Google Drive and using for your store.</p>
+<p align="center" /><a href="https://docs.google.com/spreadsheets/d/13FemIzzexF5koAdQYjbcKscqoCfXyknYWkQkbSZGPsk/edit#gid=1164219475" title="Google Sheet Master Table for Magento 2 Import">Google Sheet Master Table for Magento 2 Import</a></p>
 
 <a href="https://docs.google.com/spreadsheets/d/13FemIzzexF5koAdQYjbcKscqoCfXyknYWkQkbSZGPsk/edit#gid=1164219475" title="Magento 2 Google Sheet Import
 "><img src="https://i.imgur.com/hxXZrKf.png" /></a>
