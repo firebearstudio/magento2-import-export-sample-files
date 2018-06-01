@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <creation_time>12/12/12 17:00</creation_time>
+    <title>Sample CMS page 1</title>
+    <identifier>sample_cms_page_1</identifier>
+    <store_view_code>All,default</store_view_code>
+    <is_active>1</is_active>
+    <content_heading>Home Page Other</content_heading>
+    <content>&lt;div style=&quot;width: 33%; float: left;&quot;&gt;
+&lt;img src=&quot;https://firebearstudio.com/media/catalog/product/0/2/02.png&quot; width=&quot;100px&quot; /&gt;
+&lt;h4&gt;Improved Configurable Product for Magento 2&lt;/h4&gt;
+&lt;div id=&quot;product-description&quot; class=&quot;description&quot;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;The successor of Simple Configurable Products and the most valuable Magento 2 Configurable Product extension. Use configurable products to full potential, take advantage of B2B bulk ordering, with dynamic attribute changes, improved SEO, and advertising options.&lt;/p&gt;&lt;p&gt;- Dynamic content change: page URL, product name, SKU, description &amp;amp; any other attribute&lt;/p&gt;&lt;p&gt;- Support of custom options for configurable products&lt;/p&gt;&lt;p&gt;- Default options for configurable product&lt;/p&gt;&lt;p&gt;- Configurable product options matrix grid&lt;/p&gt;&lt;p&gt;- Flexibe product price range display&lt;/p&gt;&lt;p&gt;- Dynamic content change for category pages&lt;/p&gt;&lt;p&gt;- Flexible product page settings&lt;/p&gt;&lt;p&gt;- Product options pre-select with page URL&lt;/p&gt;&lt;p&gt;- Target advertising of specific products&lt;/p&gt;&lt;p&gt;- Full tier and group prices support&lt;/p&gt;&lt;p&gt;- Custom shipping message scheduler&lt;/p&gt;&lt;p&gt;- Reduced number of add to cart steps&lt;/p&gt;&lt;p&gt;- Metadata and schema.org dynamic updates&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;width: 33%; float: left;&quot;&gt;
+&lt;img src=&quot;https://firebearstudio.com/media/catalog/product/cache/1/small_image/140x/9df78eab33525d08d6e5fb8d27136e95/0/1/01.png&quot; width=&quot;100px&quot; /&gt;
+&lt;h4&gt;Improved Import &amp; Export for Magento 2&lt;/h4&gt;
+
+&lt;div id=&quot;product-description&quot; class=&quot;description&quot;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;- Google Sheet Magento 2 Import support&lt;/p&gt;&lt;p&gt;- Import tier prices with products&lt;/p&gt;&lt;p&gt;- Cofigurable products can be created on the fly&lt;/p&gt;&lt;p&gt;- Automatically upload and synchronize external product listing with M2&lt;/p&gt;&lt;p&gt;- No programming skills required&lt;/p&gt;&lt;p&gt;- CSV, XML, TXT &amp;amp; Google Sheets support&lt;/p&gt;&lt;p&gt;- Flexible cron jobs (admin run, CLI)&lt;/p&gt;&lt;p&gt;- Powerful import &amp;amp; export mapping for any data structure with filters and static values&lt;/p&gt;&lt;p&gt;- Categories, Attributes and values import&lt;/p&gt;&lt;p&gt;- Orders, invoices, shipping export&lt;/p&gt;&lt;p&gt;- Supported sources: FTP, SFTP, URL, Dropbox&lt;/p&gt;&lt;p&gt;- Support all product types, customers, orders&lt;/p&gt;&lt;p&gt;- Magento 1 products migration preset&lt;/p&gt;&lt;p&gt;- User friendly &amp;amp; intuitive interface&lt;/p&gt;&lt;p&gt;- Handle millions of products on single file&lt;/p&gt;&lt;p&gt;- Average import speed - 3000 products/min.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;width: 33%; float: left;&quot;&gt;
+&lt;img src=&quot;https://firebearstudio.com/media/catalog/product/0/2/02.png&quot; width=&quot;100px&quot; /&gt;
+&lt;h4&gt;CoinPayments for Magento 2&lt;/h4&gt;
+&lt;div id=&quot;product-description&quot; class=&quot;description&quot;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Integration with &lt;strong&gt;&lt;a href=&quot;https://www.coinpayments.net/index.php?ref=6c3ab6308e49e5929b2021afc35b5d44&quot; target=&quot;_blank&quot;&gt;CoinPayments&lt;/a&gt;&lt;/strong&gt; cryptocurrency payment gateway for &lt;strong&gt;Magento 2&lt;/strong&gt;.&amp;nbsp;&lt;span id=&quot;docs-internal-guid-4c328ddc-c4ca-3b4f-4627-30b8dd009e5e&quot;&gt;Enabling customers to use &lt;a href=&quot;https://www.bitcoin.com/&quot; target=&quot;_blank&quot;&gt;BitCoin&lt;/a&gt;, &lt;a href=&quot;https://ethereum.org/&quot; target=&quot;_blank&quot;&gt;Ethereum&lt;/a&gt; and 75+ altcoins to pay for goods and services you sell. More that 300k merchants worldwide use CoinPayments for accept cryptocurrency. Join the future now!&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;- Accept crypto on Magento 2 websites;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- 70+ altcoins supported;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Cryptocurrency wallet;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- PayPal integration;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Fiat withdrawal;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Direct bank deposit withdrawal;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Transaction history;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- New Magento 2 payment method builded according to best practices;&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Easy integration&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;clear: both;&quot;&gt; &lt;/div&gt;</content>
+    <page_layout>1column</page_layout>
+    <meta_title>Meta title of the CMS page goes here</meta_title>
+    <meta_keywords>meta,keywords,of,the,CMS,page,goes,here</meta_keywords>
+    <meta_description>Meta description of the CMS page goes here</meta_description>
+    <layout_update_xml>&lt;!--
+    &lt;referenceContainer name=right&quot;&gt;
+        &lt;action method=&quot;unsetChild&quot;&gt;&lt;argument name=&quot;alias&quot; xsi:type=&quot;string&quot;&gt;right.reports.product.viewed&lt;/argument&gt;&lt;/action&gt;
+        &lt;action method=&quot;unsetChild&quot;&gt;&lt;argument name=&quot;alias&quot; xsi:type=&quot;string&quot;&gt;right.reports.product.compared&lt;/argument&gt;&lt;/action&gt;
+    &lt;/referenceContainer&gt;--&gt;</layout_update_xml>
+    <custom_theme>Magento/luma</custom_theme>
+    <custom_root_template>1column</custom_root_template>
+    <custom_theme_from>2/1/18</custom_theme_from>
+    <custom_theme_to>2/28/18</custom_theme_to>
+  </item>
+  <item>
+    <creation_time>12/12/12 17:00</creation_time>
+    <title>Sample CMS page 2</title>
+    <identifier>sample_cms_page_2</identifier>
+    <store_view_code>All,default</store_view_code>
+    <is_active>1</is_active>
+    <content_heading>Home Page Other</content_heading>
+    <content>&lt;div style=&quot;width: 33%; float: left;&quot;&gt;
+&lt;img src=&quot;https://firebearstudio.com/media/catalog/product/0/2/02.png&quot; width=&quot;100px&quot; /&gt;
+&lt;h4&gt;Improved Configurable Product for Magento 2&lt;/h4&gt;
+&lt;div id=&quot;product-description&quot; class=&quot;description&quot;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;The successor of Simple Configurable Products and the most valuable Magento 2 Configurable Product extension. Use configurable products to full potential, take advantage of B2B bulk ordering, with dynamic attribute changes, improved SEO, and advertising options.&lt;/p&gt;&lt;p&gt;- Dynamic content change: page URL, product name, SKU, description &amp;amp; any other attribute&lt;/p&gt;&lt;p&gt;- Support of custom options for configurable products&lt;/p&gt;&lt;p&gt;- Default options for configurable product&lt;/p&gt;&lt;p&gt;- Configurable product options matrix grid&lt;/p&gt;&lt;p&gt;- Flexibe product price range display&lt;/p&gt;&lt;p&gt;- Dynamic content change for category pages&lt;/p&gt;&lt;p&gt;- Flexible product page settings&lt;/p&gt;&lt;p&gt;- Product options pre-select with page URL&lt;/p&gt;&lt;p&gt;- Target advertising of specific products&lt;/p&gt;&lt;p&gt;- Full tier and group prices support&lt;/p&gt;&lt;p&gt;- Custom shipping message scheduler&lt;/p&gt;&lt;p&gt;- Reduced number of add to cart steps&lt;/p&gt;&lt;p&gt;- Metadata and schema.org dynamic updates&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;width: 33%; float: left;&quot;&gt;
+&lt;img src=&quot;https://firebearstudio.com/media/catalog/product/cache/1/small_image/140x/9df78eab33525d08d6e5fb8d27136e95/0/1/01.png&quot; width=&quot;100px&quot; /&gt;
+&lt;h4&gt;Improved Import &amp; Export for Magento 2&lt;/h4&gt;
+
+&lt;div id=&quot;product-description&quot; class=&quot;description&quot;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;- Google Sheet Magento 2 Import support&lt;/p&gt;&lt;p&gt;- Import tier prices with products&lt;/p&gt;&lt;p&gt;- Cofigurable products can be created on the fly&lt;/p&gt;&lt;p&gt;- Automatically upload and synchronize external product listing with M2&lt;/p&gt;&lt;p&gt;- No programming skills required&lt;/p&gt;&lt;p&gt;- CSV, XML, TXT &amp;amp; Google Sheets support&lt;/p&gt;&lt;p&gt;- Flexible cron jobs (admin run, CLI)&lt;/p&gt;&lt;p&gt;- Powerful import &amp;amp; export mapping for any data structure with filters and static values&lt;/p&gt;&lt;p&gt;- Categories, Attributes and values import&lt;/p&gt;&lt;p&gt;- Orders, invoices, shipping export&lt;/p&gt;&lt;p&gt;- Supported sources: FTP, SFTP, URL, Dropbox&lt;/p&gt;&lt;p&gt;- Support all product types, customers, orders&lt;/p&gt;&lt;p&gt;- Magento 1 products migration preset&lt;/p&gt;&lt;p&gt;- User friendly &amp;amp; intuitive interface&lt;/p&gt;&lt;p&gt;- Handle millions of products on single file&lt;/p&gt;&lt;p&gt;- Average import speed - 3000 products/min.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;width: 33%; float: left;&quot;&gt;
+&lt;img src=&quot;https://firebearstudio.com/media/catalog/product/0/2/02.png&quot; width=&quot;100px&quot; /&gt;
+&lt;h4&gt;CoinPayments for Magento 2&lt;/h4&gt;
+&lt;div id=&quot;product-description&quot; class=&quot;description&quot;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Integration with &lt;strong&gt;&lt;a href=&quot;https://www.coinpayments.net/index.php?ref=6c3ab6308e49e5929b2021afc35b5d44&quot; target=&quot;_blank&quot;&gt;CoinPayments&lt;/a&gt;&lt;/strong&gt; cryptocurrency payment gateway for &lt;strong&gt;Magento 2&lt;/strong&gt;.&amp;nbsp;&lt;span id=&quot;docs-internal-guid-4c328ddc-c4ca-3b4f-4627-30b8dd009e5e&quot;&gt;Enabling customers to use &lt;a href=&quot;https://www.bitcoin.com/&quot; target=&quot;_blank&quot;&gt;BitCoin&lt;/a&gt;, &lt;a href=&quot;https://ethereum.org/&quot; target=&quot;_blank&quot;&gt;Ethereum&lt;/a&gt; and 75+ altcoins to pay for goods and services you sell. More that 300k merchants worldwide use CoinPayments for accept cryptocurrency. Join the future now!&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;- Accept crypto on Magento 2 websites;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- 70+ altcoins supported;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Cryptocurrency wallet;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- PayPal integration;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Fiat withdrawal;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Direct bank deposit withdrawal;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Transaction history;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- New Magento 2 payment method builded according to best practices;&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;- Easy integration&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;clear: both;&quot;&gt; &lt;/div&gt;</content>
+    <page_layout>1column</page_layout>
+    <meta_title>Meta title of the CMS page goes here</meta_title>
+    <meta_keywords>meta,keywords,of,the,CMS,page,goes,here</meta_keywords>
+    <meta_description>Meta description of the CMS page goes here</meta_description>
+    <layout_update_xml>&lt;!--
+    &lt;referenceContainer name=right&quot;&gt;
+        &lt;action method=&quot;unsetChild&quot;&gt;&lt;argument name=&quot;alias&quot; xsi:type=&quot;string&quot;&gt;right.reports.product.viewed&lt;/argument&gt;&lt;/action&gt;
+        &lt;action method=&quot;unsetChild&quot;&gt;&lt;argument name=&quot;alias&quot; xsi:type=&quot;string&quot;&gt;right.reports.product.compared&lt;/argument&gt;&lt;/action&gt;
+    &lt;/referenceContainer&gt;--&gt;</layout_update_xml>
+    <custom_theme>Magento/blank</custom_theme>
+    <custom_root_template>1column</custom_root_template>
+    <custom_theme_from>3/2/19</custom_theme_from>
+    <custom_theme_to>3/29/19</custom_theme_to>
+  </item>
+</Items>

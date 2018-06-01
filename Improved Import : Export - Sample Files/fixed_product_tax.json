@@ -1,0 +1,131 @@
+{
+"fixed product tax": [
+  {
+        "sku": "TST-Conf-Simp-S-Gray",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable-simple product-S-Gray",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-Conf-Simp-S-Green",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable-simple product-S-Green",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-Conf-Simp-S-Purple",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable-simple product-S-Purple",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Gray",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable-simple product-M-Gray",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Green",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable-simple product-M-Green",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Purple",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable-simple product-M-Purple",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Gray",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable-simple product-L-Gray",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Green",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable-simple product-L-Green",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Purple",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable-simple product-L-Purple",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-Conf",
+        "product_type": "configurable",
+        "attribute_set_code": "Default",
+        "name": "Test Configurable product",
+        "price": "68",
+        "wee_tax_variations": "name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000"
+      },
+      {
+        "sku": "TST-GrpBnd-Simple-1",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Bundle and Grouped - simple product 1",
+        "price": "14",
+        "wee_tax_variations": "name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000"
+      },
+      {
+        "sku": "TST-GrpBnd-Simple-2",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Bundle and Grouped - simple product 2",
+        "price": "17",
+        "wee_tax_variations": "name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000"
+      },
+      {
+        "sku": "TST-GrpBnd-Simple-3",
+        "product_type": "simple",
+        "attribute_set_code": "Default",
+        "name": "Test Bundle and Grouped - simple product 3",
+        "price": "21",
+        "wee_tax_variations": "name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000"
+      },
+      {
+        "sku": "TST-GrpBnd-Grouped",
+        "product_type": "grouped",
+        "attribute_set_code": "Default",
+        "name": "Test Grouped product",
+        "wee_tax_variations": "name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000"
+      },
+      {
+        "sku": "TST-GrpBnd-Bundle-DynamicPrice",
+        "product_type": "bundle",
+        "attribute_set_code": "Default",
+        "name": "Test Bundle product with dynamic price",
+        "price": "14",
+        "wee_tax_variations": "name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000"
+      },
+      {
+        "sku": "TST-GrpBnd-Bundle-FixedPrice",
+        "product_type": "bundle",
+        "attribute_set_code": "Default",
+        "name": "Test Bundle product with fixed price",
+        "price": "14",
+        "wee_tax_variations": "name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000"
+      }
+    ]
+  }

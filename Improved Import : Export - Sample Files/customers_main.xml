@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <email>roni_cost@example.com</email>
+    <_website>base</_website>
+    <_store>default</_store>
+    <confirmation>0</confirmation>
+    <created_at>2018-01-16 9:48:37</created_at>
+    <created_in>Default Store View</created_in>
+    <disable_auto_group_change>0</disable_auto_group_change>
+    <dob>1973-12-15</dob>
+    <failures_num>0</failures_num>
+    <firstname>Veronica</firstname>
+    <first_failure></first_failure>
+    <gender>Female</gender>
+    <group_id>1</group_id>
+    <lastname>Costello</lastname>
+    <lock_expires></lock_expires>
+    <middlename></middlename>
+    <password_hash>ef55cebdb2034a893d94c36a259cd5edad7001c6bad560a4a45de8872f22944b:Dr0YM5KykTZZlAv628Fgk8A1ijMw6qHu:1</password_hash>
+    <prefix></prefix>
+    <rp_token>09ae7838f74dc08343252255d7c69bf8</rp_token>
+    <rp_token_created_at>2018-01-16 9:48:37</rp_token_created_at>
+    <store_id>1</store_id>
+    <suffix></suffix>
+    <taxvat></taxvat>
+    <updated_at>2018-01-16 9:48:37</updated_at>
+    <website_id>1</website_id>
+    <password></password>
+  </item>
+  <item>
+    <email>doe@test.com</email>
+    <_website>base</_website>
+    <_store>default</_store>
+    <confirmation>1</confirmation>
+    <created_at>2018-02-07 9:15:00</created_at>
+    <created_in>Default Store View</created_in>
+    <disable_auto_group_change>1</disable_auto_group_change>
+    <dob>1986-05-10</dob>
+    <failures_num>2</failures_num>
+    <firstname>John</firstname>
+    <first_failure>2018-03-30 8:33:01</first_failure>
+    <gender>Male</gender>
+    <group_id>1</group_id>
+    <lastname>Doe</lastname>
+    <lock_expires></lock_expires>
+    <middlename>D</middlename>
+    <password_hash>0dae96ff085057cfd5ec9531878416a2611dadaa67731964d12143858d20e4a6:1YwspSypMib3ra3pHCX8VPSfUzrDyO5K:1</password_hash>
+    <prefix>Mr.</prefix>
+    <rp_token></rp_token>
+    <rp_token_created_at></rp_token_created_at>
+    <store_id>1</store_id>
+    <suffix>Jr.</suffix>
+    <taxvat>EU555555555</taxvat>
+    <updated_at>2018-02-21 13:01:41</updated_at>
+    <website_id>1</website_id>
+    <password></password>
+  </item>
+  <item>
+    <email>roe@test.com</email>
+    <_website>base</_website>
+    <_store>default</_store>
+    <confirmation>0</confirmation>
+    <created_at>2018-02-21 12:28:57</created_at>
+    <created_in>Default Store View</created_in>
+    <disable_auto_group_change>0</disable_auto_group_change>
+    <dob>1991-07-05</dob>
+    <failures_num>0</failures_num>
+    <firstname>Jane</firstname>
+    <first_failure></first_failure>
+    <gender>Female</gender>
+    <group_id>1</group_id>
+    <lastname>Roe</lastname>
+    <lock_expires></lock_expires>
+    <middlename>R</middlename>
+    <password_hash></password_hash>
+    <prefix>Mrs.</prefix>
+    <rp_token>5481196900927de23bbbcc5ef4e45716</rp_token>
+    <rp_token_created_at>2018-02-21 12:28:57</rp_token_created_at>
+    <store_id>1</store_id>
+    <suffix>Sr.</suffix>
+    <taxvat>EU555555555</taxvat>
+    <updated_at>2018-02-21 13:01:43</updated_at>
+    <website_id>1</website_id>
+    <password></password>
+  </item>
+</Items>

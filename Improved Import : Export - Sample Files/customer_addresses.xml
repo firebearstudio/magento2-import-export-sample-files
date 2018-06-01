@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <_website>base</_website>
+    <_email>roni_cost@example.com</_email>
+    <_entity_id>1</_entity_id>
+    <city>Calder</city>
+    <company></company>
+    <country_id>US</country_id>
+    <fax></fax>
+    <firstname>Veronica</firstname>
+    <lastname>Costello</lastname>
+    <middlename></middlename>
+    <postcode>49628-7978</postcode>
+    <prefix></prefix>
+    <region>MI</region>
+    <region_id>33</region_id>
+    <street>6146 Honey Bluff Parkway</street>
+    <suffix></suffix>
+    <telephone>(555) 229-3326</telephone>
+    <vat_id></vat_id>
+    <vat_is_valid>1</vat_is_valid>
+    <vat_request_date></vat_request_date>
+    <vat_request_id></vat_request_id>
+    <vat_request_success>1</vat_request_success>
+    <_address_default_billing_>1</_address_default_billing_>
+    <_address_default_shipping_>1</_address_default_shipping_>
+  </item>
+  <item>
+    <_website>base</_website>
+    <_email>doe@test.com</_email>
+    <_entity_id>2</_entity_id>
+    <city>Test</city>
+    <company>FireBear Studio</company>
+    <country_id>DE</country_id>
+    <fax></fax>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <middlename>D</middlename>
+    <postcode>12345</postcode>
+    <prefix>Mr.</prefix>
+    <region></region>
+    <region_id>0</region_id>
+    <street>Test
+23</street>
+    <suffix>Jr.</suffix>
+    <telephone>5555555555</telephone>
+    <vat_id>EU555555555</vat_id>
+    <vat_is_valid>0</vat_is_valid>
+    <vat_request_date></vat_request_date>
+    <vat_request_id></vat_request_id>
+    <vat_request_success>0</vat_request_success>
+    <_address_default_billing_>1</_address_default_billing_>
+    <_address_default_shipping_>1</_address_default_shipping_>
+  </item>
+  <item>
+    <_website>base</_website>
+    <_email>roe@test.com</_email>
+    <_entity_id>3</_entity_id>
+    <city>Test</city>
+    <company>FireBear Studio</company>
+    <country_id>DE</country_id>
+    <fax></fax>
+    <firstname>Jane</firstname>
+    <lastname>Roe</lastname>
+    <middlename>R</middlename>
+    <postcode>12345</postcode>
+    <prefix>Mrs.</prefix>
+    <region></region>
+    <region_id>0</region_id>
+    <street>Test
+96</street>
+    <suffix>Sr.</suffix>
+    <telephone>5555555556</telephone>
+    <vat_id>EU555555555</vat_id>
+    <vat_is_valid>1</vat_is_valid>
+    <vat_request_date></vat_request_date>
+    <vat_request_id></vat_request_id>
+    <vat_request_success>1</vat_request_success>
+    <_address_default_billing_>1</_address_default_billing_>
+    <_address_default_shipping_>1</_address_default_shipping_>
+  </item>
+</Items>

@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <sku>TST-Conf-Simp-S-Gray</sku>
+    <group>TST-Conf</group>
+    <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>S</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable-simple product-S-Gray</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf-Simp-S-Green</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled>0</map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Gray,size=S</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Green</sku>
+    <group>TST-Conf</group>
+    <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>S</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable-simple product-S-Green</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf-Simp-S-Green</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Green,size=S</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Purple</sku>
+    <group>TST-Conf</group>
+    <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>S</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable-simple product-S-Purple</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf-Simp-S-Purple</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Purple,size=S</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Gray</sku>
+    <group>TST-Conf</group>
+    <tier_prices>General,100,50,0,All|Retailer,200,45,0,All</tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>M</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable-simple product-M-Gray</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf-Simp-M-Gray</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Gray,size=M</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Green</sku>
+    <group>TST-Conf</group>
+    <tier_prices>General,100,50,0,All|Retailer,200,45,0,All</tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>M</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable-simple product-M-Green</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf-Simp-M-Green</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Green,size=M</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Purple</sku>
+    <group>TST-Conf</group>
+    <tier_prices>General,100,50,0,All|Retailer,200,45,0,All</tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>M</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable-simple product-M-Purple</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf-Simp-M-Purple</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Purple,size=M</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Gray</sku>
+    <group>TST-Conf</group>
+    <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>L</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable-simple product-L-Gray</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf-Simp-L-Gray</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Gray,size=L</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Green</sku>
+    <group>TST-Conf</group>
+    <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>L</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable-simple product-L-Green</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf-Simp-L-Green</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Green,size=L</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Purple</sku>
+    <group>TST-Conf</group>
+    <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>L</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable-simple product-L-Purple</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf-Simp-L-Purple</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Purple,size=L</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Conf</sku>
+    <group></group>
+    <tier_prices></tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>configurable</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <product_websites>base</product_websites>
+    <name>Test Configurable product</name>
+    <description>&lt;p&gt;This is a test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <weight></weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price>68</price>
+    <special_price>50</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Conf</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12</created_at>
+    <updated_at>2017-02-02 12:12</updated_at>
+    <new_from_date>2017-01-01 12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>eco_collection=Yes,erin_recommends=No,new=No,pattern=Solid,performance_fabric=Yes,sale=No</additional_attributes>
+    <qty>0</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>0</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations>sku=TST-Conf-Simp-S-Gray,size=S|sku=TST-Conf-Simp-S-Green,size=S|sku=TST-Conf-Simp-S-Purple,size=S|sku=TST-Conf-Simp-M-Gray,size=M|sku=TST-Conf-Simp-M-Green,size=M|sku=TST-Conf-Simp-M-Purple,size=M|sku=TST-Conf-Simp-L-Gray,size=L|sku=TST-Conf-Simp-L-Green,size=L|sku=TST-Conf-Simp-L-Purple,size=L</configurable_variations>
+    <configurable_variation_labels>color=Choose color,size=Choose size</configurable_variation_labels>
+    <associated_skus>TST-Conf-Simp-S-Green,TST-Conf-Simp-S-Green,TST-Conf-Simp-S-Purple,TST-Conf-Simp-M-Gray,TST-Conf-Simp-M-Green,TST-Conf-Simp-M-Purple,TST-Conf-Simp-L-Gray,TST-Conf-Simp-L-Green,TST-Conf-Simp-L-Purple</associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Simple-1</sku>
+    <group></group>
+    <tier_prices></tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+    <product_websites>base</product_websites>
+    <name>Test Bundle and Grouped - simple product 1</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test Bundle and Grouped products named Test Bundle and Grouped - simple product 1 with SKU: TST-GrpBnd-Simple-1.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test Bundle and Grouped products named Test Bundle and Grouped - simple product 1 with SKU: TST-GrpBnd-Simple-1.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>14</price>
+    <special_price>10</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-GrpBnd-Simple-1</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12:12</created_at>
+    <updated_at>2017-02-02 12:12:12</updated_at>
+    <new_from_date>2017-01-01 12:12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>has_options=1,quantity_and_stock_status=In Stock,required_options=0</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>0</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options>name=Custom Yoga Option,type=drop_down,required=0,price=10.0000,price_type=fixed,sku=,option_title=Gold|name=Custom Yoga Option,type=drop_down,required=0,price=10.0000,price_type=fixed,sku=,option_title=Silver|name=Custom Yoga Option,type=drop_down,required=0,price=10.0000,price_type=fixed,sku=yoga3sku,option_title=Platinum</custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Simple-2</sku>
+    <group></group>
+    <tier_prices></tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+    <product_websites>base</product_websites>
+    <name>Test Bundle and Grouped - simple product 2</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test Bundle and Grouped products named Test Bundle and Grouped - simple product 2 with SKU: TST-GrpBnd-Simple-1.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test Bundle and Grouped products named Test Bundle and Grouped - simple product 2 with SKU: TST-GrpBnd-Simple-1.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>17</price>
+    <special_price>10</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-GrpBnd-Simple-2</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12:12</created_at>
+    <updated_at>2017-02-02 12:12:12</updated_at>
+    <new_from_date>2017-01-01 12:12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>has_options=0,quantity_and_stock_status=In Stock,required_options=0</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>0</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Simple-3</sku>
+    <group></group>
+    <tier_prices></tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+    <product_websites>base</product_websites>
+    <name>Test Bundle and Grouped - simple product 3</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test Bundle and Grouped products named Test Bundle and Grouped - simple product 2 with SKU: TST-GrpBnd-Simple-1.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test Bundle and Grouped products named Test Bundle and Grouped - simple product 2 with SKU: TST-GrpBnd-Simple-1.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Not Visible Individually</visibility>
+    <price>21</price>
+    <special_price>10</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-GrpBnd-Simple-3</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12:12</created_at>
+    <updated_at>2017-02-02 12:12:12</updated_at>
+    <new_from_date>2017-01-01 12:12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>has_options=0,quantity_and_stock_status=In Stock,required_options=0</additional_attributes>
+    <qty>100</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>0</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Grouped</sku>
+    <group></group>
+    <tier_prices></tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>grouped</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+    <product_websites>base</product_websites>
+    <name>Test Grouped product</name>
+    <description>&lt;p&gt;This is a test Grouped product named Test Grouped product with SKU: TST-GrpBnd-Grouped.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test Grouped product named Test Grouped product with SKU: TST-GrpBnd-Grouped.&lt;/p&gt;</short_description>
+    <weight></weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price></price>
+    <special_price></special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-GrpBnd-Grouped</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12:12</created_at>
+    <updated_at>2017-02-02 12:12:12</updated_at>
+    <new_from_date>2017-01-01 12:12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>has_options=0,quantity_and_stock_status=In Stock,required_options=0</additional_attributes>
+    <qty>0</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>0</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>1</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus>TST-GrpBnd-Simple-1=5.0000,TST-GrpBnd-Simple-2=5.0000</associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Bundle-DynamicPrice</sku>
+    <group></group>
+    <tier_prices></tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>bundle</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+    <product_websites>base</product_websites>
+    <name>Test Bundle product with dynamic price</name>
+    <description>&lt;p&gt;This is a test Bundle product with dynamic price named Test Grouped product with SKU: TST-GrpBnd-Grouped.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test Bundle product with dynamic price named Test Grouped product with SKU: TST-GrpBnd-Grouped.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price>14</price>
+    <special_price>10</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-GrpBnd-Bundle-DynamicPrice</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12:12</created_at>
+    <updated_at>2017-02-02 12:12:12</updated_at>
+    <new_from_date>2017-01-01 12:12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>has_options=1,shipment_type=together,quantity_and_stock_status=In Stock,required_options=0</additional_attributes>
+    <qty>0</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>0</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type>dynamic</bundle_price_type>
+    <bundle_sku_type>dynamic</bundle_sku_type>
+    <bundle_price_view>Price range</bundle_price_view>
+    <bundle_weight_type>fixed</bundle_weight_type>
+    <bundle_values>name=Bundle Option One1,type=select,required=1,sku=TST-GrpBnd-Simple-1,price=15.0000,default=0,default_qty=1.0000,price_type=fixed|name=Bundle Option One1,type=select,required=1,sku=TST-GrpBnd-Simple-2,price=10.0000,default=1,default_qty=1.0000,price_type=fixed</bundle_values>
+    <bundle_shipment_type>together</bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Bundle-FixedPrice</sku>
+    <group></group>
+    <tier_prices></tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>bundle</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+    <product_websites>base</product_websites>
+    <name>Test Bundle product with fixed price</name>
+    <description>&lt;p&gt;This is a test Bundle product with fixed price named Test Grouped product with SKU: TST-GrpBnd-Grouped.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test Bundle product with fixed price named Test Grouped product with SKU: TST-GrpBnd-Grouped.&lt;/p&gt;</short_description>
+    <weight>1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price>14</price>
+    <special_price>10</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-GrpBnd-Bundle-FixedPrice</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12:12</created_at>
+    <updated_at>2017-02-02 12:12:12</updated_at>
+    <new_from_date>2017-01-01 12:12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>has_options=1,shipment_type=together,quantity_and_stock_status=In Stock,required_options=0</additional_attributes>
+    <qty>0</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>0</use_config_min_sale_qty>
+    <max_cart_qty>0</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below></notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>0</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1,TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-1,TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1,TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type>fixed</bundle_price_type>
+    <bundle_sku_type>fixed</bundle_sku_type>
+    <bundle_price_view>Price range</bundle_price_view>
+    <bundle_weight_type>fixed</bundle_weight_type>
+    <bundle_values>name=Yoga Strap,type=radio,required=1,sku=TST-GrpBnd-Simple-2,price=0.0000,default=1,default_qty=3.0000,price_type=percent|name=Yoga Strap,type=radio,required=1,sku=TST-GrpBnd-Simple-1,price=0.0000,default=0,default_qty=3.0000,price_type=percent</bundle_values>
+    <bundle_shipment_type>separately</bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links></downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Dwnl-1</sku>
+    <group></group>
+    <tier_prices></tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>downloadable</product_type>
+    <categories>Default Category/Shop</categories>
+    <product_websites>base</product_websites>
+    <name>Test Downloadable product</name>
+    <description>&lt;p&gt;This is a test Downloadable product named Test Downloadable product with SKU: TST-Dwnl-1.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test Downloadable product named Test Downloadable product with SKU: TST-Dwnl-1.&lt;/p&gt;</short_description>
+    <weight></weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price>123</price>
+    <special_price>100</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Dwnl-1</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12:12</created_at>
+    <updated_at>2017-02-02 12:12:12</updated_at>
+    <new_from_date>2017-01-01 12:12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Black,size=S</additional_attributes>
+    <qty>123</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>0</use_config_min_sale_qty>
+    <max_cart_qty>10000</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below>1</notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>1</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-2</related_skus>
+    <crosssell_skus>TST-Dwnl-2</crosssell_skus>
+    <upsell_skus>TST-Dwnl-2</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links>price=89,file=https://firebearstudio.com/media/logos/default/logo.png,downloads=10,group_title=Firebear links,title=Firebear title</downloadable_links>
+  </item>
+  <item>
+    <sku>TST-Dwnl-2</sku>
+    <group></group>
+    <tier_prices></tier_prices>
+    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <store_view_code>default</store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>downloadable</product_type>
+    <categories>Default Category/Shop</categories>
+    <product_websites>base</product_websites>
+    <name>Test Downloadable product</name>
+    <description>&lt;p&gt;This is a test Downloadable product named Test Downloadable product with SKU: TST-Dwnl-2.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test Downloadable product named Test Downloadable product with SKU: TST-Dwnl-2.&lt;/p&gt;</short_description>
+    <weight></weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price>123</price>
+    <special_price>100</special_price>
+    <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+    <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+    <url_key>TST-Dwnl-2</url_key>
+    <meta_title>Test meta title</meta_title>
+    <meta_keywords>meta1,meta2,meta3</meta_keywords>
+    <meta_description>Meta description goes here.</meta_description>
+    <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+    <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+    <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+    <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+    <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+    <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+    <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+    <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+    <created_at>2017-01-01 12:12:12</created_at>
+    <updated_at>2017-02-02 12:12:12</updated_at>
+    <new_from_date>2017-01-01 12:12:12</new_from_date>
+    <new_to_date>2017-02-02 12:12:12</new_to_date>
+    <display_product_options_in>Block after Info Column</display_product_options_in>
+    <map_price>10</map_price>
+    <msrp_price>10</msrp_price>
+    <map_enabled></map_enabled>
+    <gift_message_available></gift_message_available>
+    <custom_design></custom_design>
+    <custom_design_from>2017-01-01 12:12:12</custom_design_from>
+    <custom_design_to>2017-02-02 12:12:12</custom_design_to>
+    <custom_layout_update></custom_layout_update>
+    <page_layout></page_layout>
+    <product_options_container>Block after Info Column</product_options_container>
+    <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+    <country_of_manufacture>Finland</country_of_manufacture>
+    <additional_attributes>color=Black,size=S</additional_attributes>
+    <qty>123</qty>
+    <out_of_stock_qty>0</out_of_stock_qty>
+    <use_config_min_qty>1</use_config_min_qty>
+    <is_qty_decimal>0</is_qty_decimal>
+    <allow_backorders>0</allow_backorders>
+    <use_config_backorders>1</use_config_backorders>
+    <min_cart_qty>1</min_cart_qty>
+    <use_config_min_sale_qty>0</use_config_min_sale_qty>
+    <max_cart_qty>10000</max_cart_qty>
+    <use_config_max_sale_qty>1</use_config_max_sale_qty>
+    <is_in_stock>1</is_in_stock>
+    <notify_on_stock_below>1</notify_on_stock_below>
+    <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+    <manage_stock>0</manage_stock>
+    <use_config_manage_stock>1</use_config_manage_stock>
+    <use_config_qty_increments>1</use_config_qty_increments>
+    <qty_increments>0</qty_increments>
+    <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+    <enable_qty_increments>0</enable_qty_increments>
+    <is_decimal_divided>0</is_decimal_divided>
+    <website_id>1</website_id>
+    <deferred_stock_update>0</deferred_stock_update>
+    <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+    <related_skus>TST-Dwnl-1</related_skus>
+    <crosssell_skus>TST-Dwnl-1</crosssell_skus>
+    <upsell_skus>TST-Dwnl-1</upsell_skus>
+    <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+    <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+    <hide_from_product_page></hide_from_product_page>
+    <custom_options></custom_options>
+    <bundle_price_type></bundle_price_type>
+    <bundle_sku_type></bundle_sku_type>
+    <bundle_price_view></bundle_price_view>
+    <bundle_weight_type></bundle_weight_type>
+    <bundle_values></bundle_values>
+    <bundle_shipment_type></bundle_shipment_type>
+    <configurable_variations></configurable_variations>
+    <configurable_variation_labels></configurable_variation_labels>
+    <associated_skus></associated_skus>
+    <downloadable_links>price=89,file=https://firebearstudio.com/media/logos/default/logo.png,downloads=10,group_title=Firebear links,title=Firebear title</downloadable_links>
+  </item>
+</Items>

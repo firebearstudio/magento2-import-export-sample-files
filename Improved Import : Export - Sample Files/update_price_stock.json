@@ -1,0 +1,130 @@
+{
+"fast price and stock update": [
+  {
+        "sku": "TST-Conf-Simp-S-Gray",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Configurable-simple product-S-Gray",
+        "price": "68",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-Conf-Simp-S-Green",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Configurable-simple product-S-Green",
+        "price": "68",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-Conf-Simp-S-Purple",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Configurable-simple product-S-Purple",
+        "price": "68",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Gray",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Configurable-simple product-M-Gray",
+        "price": "68",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Green",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Configurable-simple product-M-Green",
+        "price": "68",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Purple",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Configurable-simple product-M-Purple",
+        "price": "68",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Gray",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Configurable-simple product-L-Gray",
+        "price": "68",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Green",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Configurable-simple product-L-Green",
+        "price": "68",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Purple",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Configurable-simple product-L-Purple",
+        "price": "68",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-Conf",
+        "attribute_set_code": "Default",
+        "product_type": "configurable",
+        "name": "Test Configurable product",
+        "qty": "0"
+      },
+      {
+        "sku": "TST-GrpBnd-Simple-1",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Bundle and Grouped - simple product 1",
+        "price": "14",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-GrpBnd-Simple-2",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Bundle and Grouped - simple product 2",
+        "price": "17",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-GrpBnd-Simple-3",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Test Bundle and Grouped - simple product 3",
+        "price": "21",
+        "qty": "100"
+      },
+      {
+        "sku": "TST-GrpBnd-Grouped",
+        "attribute_set_code": "Default",
+        "product_type": "grouped",
+        "name": "Test Grouped product",
+        "qty": "0"
+      },
+      {
+        "sku": "TST-GrpBnd-Bundle-DynamicPrice",
+        "attribute_set_code": "Default",
+        "product_type": "bundle",
+        "name": "Test Bundle product with dynamic price",
+        "price": "14",
+        "qty": "0"
+      },
+      {
+        "sku": "TST-GrpBnd-Bundle-FixedPrice",
+        "attribute_set_code": "Default",
+        "product_type": "bundle",
+        "name": "Test Bundle product with fixed price",
+        "price": "14",
+        "qty": "0"
+      }
+    ]
+  }

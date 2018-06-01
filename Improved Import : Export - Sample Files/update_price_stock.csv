@@ -1,0 +1,17 @@
+sku,attribute_set_code,product_type,name,price,qty
+TST-Conf-Simp-S-Gray,Default,simple,Test Configurable-simple product-S-Gray,68,100
+TST-Conf-Simp-S-Green,Default,simple,Test Configurable-simple product-S-Green,68,100
+TST-Conf-Simp-S-Purple,Default,simple,Test Configurable-simple product-S-Purple,68,100
+TST-Conf-Simp-M-Gray,Default,simple,Test Configurable-simple product-M-Gray,68,100
+TST-Conf-Simp-M-Green,Default,simple,Test Configurable-simple product-M-Green,68,100
+TST-Conf-Simp-M-Purple,Default,simple,Test Configurable-simple product-M-Purple,68,100
+TST-Conf-Simp-L-Gray,Default,simple,Test Configurable-simple product-L-Gray,68,100
+TST-Conf-Simp-L-Green,Default,simple,Test Configurable-simple product-L-Green,68,100
+TST-Conf-Simp-L-Purple,Default,simple,Test Configurable-simple product-L-Purple,68,100
+TST-Conf,Default,configurable,Test Configurable product,,0
+TST-GrpBnd-Simple-1,Default,simple,Test Bundle and Grouped - simple product 1,14,100
+TST-GrpBnd-Simple-2,Default,simple,Test Bundle and Grouped - simple product 2,17,100
+TST-GrpBnd-Simple-3,Default,simple,Test Bundle and Grouped - simple product 3,21,100
+TST-GrpBnd-Grouped,Default,grouped,Test Grouped product,,0
+TST-GrpBnd-Bundle-DynamicPrice,Default,bundle,Test Bundle product with dynamic price,14,0
+TST-GrpBnd-Bundle-FixedPrice,Default,bundle,Test Bundle product with fixed price,14,0

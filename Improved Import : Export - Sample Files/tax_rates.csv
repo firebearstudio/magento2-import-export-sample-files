@@ -1,0 +1,5 @@
+Code,Country,State,Zip/Post Code,Rate,Zip/Post is Range,Range From,Range To,default
+US-CA-*-Rate 1,US,CA,*,8.25,,,,
+US-NY-*-Rate 1,US,NY,*,8.375,,,,
+US-MI-*-Rate 1,US,MI,*,8.25,,,,
+Test Tax,US,AL,12345-54321,5,1,12345,54321,

@@ -1,0 +1,148 @@
+{
+"advanced pricing": [
+  {
+        "sku": "TST-Conf-Simp-S-Gray",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "5",
+        "tier_price": "63",
+        "tier_price_value_type": "Fixed"
+      },
+      {
+        "sku": "TST-Conf-Simp-S-Gray",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "10",
+        "tier_price": "58",
+        "tier_price_value_type": "Fixed"
+      },
+      {
+        "sku": "TST-Conf-Simp-S-Green",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "5",
+        "tier_price": "63",
+        "tier_price_value_type": "Fixed"
+      },
+      {
+        "sku": "TST-Conf-Simp-S-Green",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "10",
+        "tier_price": "58",
+        "tier_price_value_type": "Fixed"
+      },
+      {
+        "sku": "TST-Conf-Simp-S-Purple",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "5",
+        "tier_price": "63",
+        "tier_price_value_type": "Fixed"
+      },
+      {
+        "sku": "TST-Conf-Simp-S-Purple",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "10",
+        "tier_price": "58",
+        "tier_price_value_type": "Fixed"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Gray",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "5",
+        "tier_price": "63",
+        "tier_price_value_type": "Fixed"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Gray",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "10",
+        "tier_price": "58",
+        "tier_price_value_type": "Fixed"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Green",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "5",
+        "tier_price": "10",
+        "tier_price_value_type": "Discount"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Green",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "10",
+        "tier_price": "15",
+        "tier_price_value_type": "Discount"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Purple",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "5",
+        "tier_price": "10",
+        "tier_price_value_type": "Discount"
+      },
+      {
+        "sku": "TST-Conf-Simp-M-Purple",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "10",
+        "tier_price": "15",
+        "tier_price_value_type": "Discount"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Gray",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "5",
+        "tier_price": "10",
+        "tier_price_value_type": "Discount"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Gray",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "10",
+        "tier_price": "15",
+        "tier_price_value_type": "Discount"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Green",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "5",
+        "tier_price": "10",
+        "tier_price_value_type": "Discount"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Green",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "10",
+        "tier_price": "15",
+        "tier_price_value_type": "Discount"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Purple",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "5",
+        "tier_price": "10",
+        "tier_price_value_type": "Discount"
+      },
+      {
+        "sku": "TST-Conf-Simp-L-Purple",
+        "tier_price_website": "base",
+        "tier_price_customer_group": "ALL GROUPS",
+        "tier_price_qty": "10",
+        "tier_price": "15",
+        "tier_price_value_type": "Discount"
+      }
+    ]
+  }

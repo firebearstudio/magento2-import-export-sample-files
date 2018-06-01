@@ -1,0 +1,19 @@
+sku,tier_price_website,tier_price_customer_group,tier_price_qty,tier_price,tier_price_value_type
+TST-Conf-Simp-S-Gray,base,ALL GROUPS,5,63,Fixed
+TST-Conf-Simp-S-Gray,base,ALL GROUPS,10,58,Fixed
+TST-Conf-Simp-S-Green,base,ALL GROUPS,5,63,Fixed
+TST-Conf-Simp-S-Green,base,ALL GROUPS,10,58,Fixed
+TST-Conf-Simp-S-Purple,base,ALL GROUPS,5,63,Fixed
+TST-Conf-Simp-S-Purple,base,ALL GROUPS,10,58,Fixed
+TST-Conf-Simp-M-Gray,base,ALL GROUPS,5,63,Fixed
+TST-Conf-Simp-M-Gray,base,ALL GROUPS,10,58,Fixed
+TST-Conf-Simp-M-Green,base,ALL GROUPS,5,10,Discount
+TST-Conf-Simp-M-Green,base,ALL GROUPS,10,15,Discount
+TST-Conf-Simp-M-Purple,base,ALL GROUPS,5,10,Discount
+TST-Conf-Simp-M-Purple,base,ALL GROUPS,10,15,Discount
+TST-Conf-Simp-L-Gray,base,ALL GROUPS,5,10,Discount
+TST-Conf-Simp-L-Gray,base,ALL GROUPS,10,15,Discount
+TST-Conf-Simp-L-Green,base,ALL GROUPS,5,10,Discount
+TST-Conf-Simp-L-Green,base,ALL GROUPS,10,15,Discount
+TST-Conf-Simp-L-Purple,base,ALL GROUPS,5,10,Discount
+TST-Conf-Simp-L-Purple,base,ALL GROUPS,10,15,Discount

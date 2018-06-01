@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <sku>TST-Conf-Simp-S-Gray</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable-simple product-S-Gray</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Green</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable-simple product-S-Green</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Purple</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable-simple product-S-Purple</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Gray</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable-simple product-M-Gray</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Green</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable-simple product-M-Green</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Purple</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable-simple product-M-Purple</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Gray</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable-simple product-L-Gray</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Green</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable-simple product-L-Green</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Purple</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable-simple product-L-Purple</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-Conf</sku>
+    <product_type>configurable</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Configurable product</name>
+    <price>68</price>
+    <wee_tax_variations>name=fixed_product_tax,country=DE,state=81,value=10.0000||name=fixed_product_tax,country=RU,state=0,value=15.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Simple-1</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Bundle and Grouped - simple product 1</name>
+    <price>14</price>
+    <wee_tax_variations>name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Simple-2</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Bundle and Grouped - simple product 2</name>
+    <price>17</price>
+    <wee_tax_variations>name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Simple-3</sku>
+    <product_type>simple</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Bundle and Grouped - simple product 3</name>
+    <price>21</price>
+    <wee_tax_variations>name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Grouped</sku>
+    <product_type>grouped</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Grouped product</name>
+    <price></price>
+    <wee_tax_variations>name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Bundle-DynamicPrice</sku>
+    <product_type>bundle</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Bundle product with dynamic price</name>
+    <price>14</price>
+    <wee_tax_variations>name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000</wee_tax_variations>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Bundle-FixedPrice</sku>
+    <product_type>bundle</product_type>
+    <attribute_set_code>Default</attribute_set_code>
+    <name>Test Bundle product with fixed price</name>
+    <price>14</price>
+    <wee_tax_variations>name=fixed_product_tax,country=US,state=1,value=20.5000||name=fixed_product_tax,country=ES,state=139,value=5.0000</wee_tax_variations>
+  </item>
+</Items>

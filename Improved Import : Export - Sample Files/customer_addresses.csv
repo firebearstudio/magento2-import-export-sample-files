@@ -1,0 +1,6 @@
+_website,_email,_entity_id,city,company,country_id,fax,firstname,lastname,middlename,postcode,prefix,region,region_id,street,suffix,telephone,vat_id,vat_is_valid,vat_request_date,vat_request_id,vat_request_success,_address_default_billing_,_address_default_shipping_
+base,roni_cost@example.com,1,Calder,,US,,Veronica,Costello,,49628-7978,,MI,33,6146 Honey Bluff Parkway,,(555) 229-3326,,1,,,1,1,1
+base,doe@test.com,2,Test,FireBear Studio,DE,,John,Doe,D,12345,Mr.,,0,"Test
+23",Jr.,5555555555,EU555555555,0,,,0,1,1
+base,roe@test.com,3,Test,FireBear Studio,DE,,Jane,Roe,R,12345,Mrs.,,0,"Test
+96",Sr.,5555555556,EU555555555,1,,,1,1,1

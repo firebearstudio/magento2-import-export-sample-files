@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <sku>TST-Conf-Simp-S-Gray</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Configurable-simple product-S-Gray</name>
+    <price>68</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Green</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Configurable-simple product-S-Green</name>
+    <price>68</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Purple</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Configurable-simple product-S-Purple</name>
+    <price>68</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Gray</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Configurable-simple product-M-Gray</name>
+    <price>68</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Green</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Configurable-simple product-M-Green</name>
+    <price>68</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Purple</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Configurable-simple product-M-Purple</name>
+    <price>68</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Gray</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Configurable-simple product-L-Gray</name>
+    <price>68</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Green</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Configurable-simple product-L-Green</name>
+    <price>68</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Purple</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Configurable-simple product-L-Purple</name>
+    <price>68</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-Conf</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>configurable</product_type>
+    <name>Test Configurable product</name>
+    <price></price>
+    <qty>0</qty>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Simple-1</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Bundle and Grouped - simple product 1</name>
+    <price>14</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Simple-2</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Bundle and Grouped - simple product 2</name>
+    <price>17</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Simple-3</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Test Bundle and Grouped - simple product 3</name>
+    <price>21</price>
+    <qty>100</qty>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Grouped</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>grouped</product_type>
+    <name>Test Grouped product</name>
+    <price></price>
+    <qty>0</qty>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Bundle-DynamicPrice</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>bundle</product_type>
+    <name>Test Bundle product with dynamic price</name>
+    <price>14</price>
+    <qty>0</qty>
+  </item>
+  <item>
+    <sku>TST-GrpBnd-Bundle-FixedPrice</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>bundle</product_type>
+    <name>Test Bundle product with fixed price</name>
+    <price>14</price>
+    <qty>0</qty>
+  </item>
+</Items>

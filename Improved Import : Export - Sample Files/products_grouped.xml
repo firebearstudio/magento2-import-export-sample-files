@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <sku>training_bag1</sku>
+    <store_view_code></store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Bags</categories>
+    <product_websites>base</product_websites>
+    <name>A bag</name>
+    <description>&lt;p&gt;A quite nice bag to hold your training gear.&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;A bag for training&lt;/p&gt;</short_description>
+    <weight>0.5</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price>50</price>
+    <url_key>a-bag1</url_key>
+    <qty>100</qty>
+    <associated_skus></associated_skus>
+  </item>
+  <item>
+    <sku>training_grips1</sku>
+    <store_view_code></store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+    <product_websites>base</product_websites>
+    <name>Pushup Grips</name>
+    <description>&lt;p&gt;Simple pushup grips.&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;Nice grips to train pushups.&lt;/p&gt;</short_description>
+    <weight>0.1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price>15</price>
+    <url_key>pushup-grips1</url_key>
+    <qty>100</qty>
+    <associated_skus></associated_skus>
+  </item>
+  <item>
+    <sku>training_band1</sku>
+    <store_view_code></store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+    <product_websites>base</product_websites>
+    <name>Tone Band</name>
+    <description>&lt;p&gt;A tone band.&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;A band for cardio training.&lt;/p&gt;</short_description>
+    <weight>0.1</weight>
+    <product_online>2</product_online>
+    <tax_class_name>Taxable Goods</tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price>10</price>
+    <url_key>tone-band1</url_key>
+    <qty>100</qty>
+    <associated_skus></associated_skus>
+  </item>
+  <item>
+    <sku>training1</sku>
+    <store_view_code></store_view_code>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>grouped</product_type>
+    <categories>Default Category/Gear,Default Category/Gear/Fitness Equipment</categories>
+    <product_websites>base</product_websites>
+    <name>Training Kit</name>
+    <description>&lt;p&gt;A starter training kit.&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;A kit for training.&lt;/p&gt;</short_description>
+    <weight></weight>
+    <product_online>2</product_online>
+    <tax_class_name></tax_class_name>
+    <visibility>Catalog, Search</visibility>
+    <price></price>
+    <url_key>training-kit1</url_key>
+    <qty>0</qty>
+    <associated_skus>training_bag1=5,training_grips1=10,training_band1=15</associated_skus>
+  </item>
+</Items>

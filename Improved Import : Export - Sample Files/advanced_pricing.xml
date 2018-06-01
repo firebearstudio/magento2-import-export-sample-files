@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <sku>TST-Conf-Simp-S-Gray</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>5</tier_price_qty>
+    <tier_price>63</tier_price>
+    <tier_price_value_type>Fixed</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Gray</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>10</tier_price_qty>
+    <tier_price>58</tier_price>
+    <tier_price_value_type>Fixed</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Green</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>5</tier_price_qty>
+    <tier_price>63</tier_price>
+    <tier_price_value_type>Fixed</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Green</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>10</tier_price_qty>
+    <tier_price>58</tier_price>
+    <tier_price_value_type>Fixed</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Purple</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>5</tier_price_qty>
+    <tier_price>63</tier_price>
+    <tier_price_value_type>Fixed</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-S-Purple</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>10</tier_price_qty>
+    <tier_price>58</tier_price>
+    <tier_price_value_type>Fixed</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Gray</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>5</tier_price_qty>
+    <tier_price>63</tier_price>
+    <tier_price_value_type>Fixed</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Gray</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>10</tier_price_qty>
+    <tier_price>58</tier_price>
+    <tier_price_value_type>Fixed</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Green</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>5</tier_price_qty>
+    <tier_price>10</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Green</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>10</tier_price_qty>
+    <tier_price>15</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Purple</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>5</tier_price_qty>
+    <tier_price>10</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-M-Purple</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>10</tier_price_qty>
+    <tier_price>15</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Gray</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>5</tier_price_qty>
+    <tier_price>10</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Gray</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>10</tier_price_qty>
+    <tier_price>15</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Green</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>5</tier_price_qty>
+    <tier_price>10</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Green</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>10</tier_price_qty>
+    <tier_price>15</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Purple</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>5</tier_price_qty>
+    <tier_price>10</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+  <item>
+    <sku>TST-Conf-Simp-L-Purple</sku>
+    <tier_price_website>base</tier_price_website>
+    <tier_price_customer_group>ALL GROUPS</tier_price_customer_group>
+    <tier_price_qty>10</tier_price_qty>
+    <tier_price>15</tier_price>
+    <tier_price_value_type>Discount</tier_price_value_type>
+  </item>
+</Items>

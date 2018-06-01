@@ -1,0 +1,5 @@
+sku,store_view_code,attribute_set_code,product_type,categories,product_websites,name,description,short_description,weight,product_online,tax_class_name,visibility,price,url_key,qty,associated_skus
+training_bag1,,Default,simple,"Default Category/Gear,Default Category/Gear/Bags",base,A bag,<p>A quite nice bag to hold your training gear.</p>,<p>A bag for training</p>,0.5,2,Taxable Goods,"Catalog, Search",50,a-bag1,100,
+training_grips1,,Default,simple,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,Pushup Grips,<p>Simple pushup grips.</p>,<p>Nice grips to train pushups.</p>,0.1,2,Taxable Goods,"Catalog, Search",15,pushup-grips1,100,
+training_band1,,Default,simple,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,Tone Band,<p>A tone band.</p>,<p>A band for cardio training.</p>,0.1,2,Taxable Goods,"Catalog, Search",10,tone-band1,100,
+training1,,Default,grouped,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,Training Kit,<p>A starter training kit.</p>,<p>A kit for training.</p>,,2,,"Catalog, Search",,training-kit1,0,"training_bag1=5,training_grips1=10,training_band1=15"

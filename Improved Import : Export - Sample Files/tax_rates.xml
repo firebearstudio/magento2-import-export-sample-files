@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <Code>US-CA-*-Rate 1</Code>
+    <Country>US</Country>
+    <State>CA</State>
+    <Zip>
+      <Post Code>*</Post Code>
+      <Post is Range></Post is Range>
+    </Zip>
+    <Rate>8.25</Rate>
+    <Range From></Range From>
+    <Range To></Range To>
+    <default></default>
+  </item>
+  <item>
+    <Code>US-NY-*-Rate 1</Code>
+    <Country>US</Country>
+    <State>NY</State>
+    <Zip>
+      <Post Code>*</Post Code>
+      <Post is Range></Post is Range>
+    </Zip>
+    <Rate>8.375</Rate>
+    <Range From></Range From>
+    <Range To></Range To>
+    <default></default>
+  </item>
+  <item>
+    <Code>US-MI-*-Rate 1</Code>
+    <Country>US</Country>
+    <State>MI</State>
+    <Zip>
+      <Post Code>*</Post Code>
+      <Post is Range></Post is Range>
+    </Zip>
+    <Rate>8.25</Rate>
+    <Range From></Range From>
+    <Range To></Range To>
+    <default></default>
+  </item>
+  <item>
+    <Code>Test Tax</Code>
+    <Country>US</Country>
+    <State>AL</State>
+    <Zip>
+      <Post Code>12345-54321</Post Code>
+      <Post is Range>1</Post is Range>
+    </Zip>
+    <Rate>5</Rate>
+    <Range From>12345</Range From>
+    <Range To>54321</Range To>
+    <default></default>
+  </item>
+</Items>

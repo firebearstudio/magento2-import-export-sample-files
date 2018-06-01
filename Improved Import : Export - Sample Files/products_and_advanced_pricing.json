@@ -1,0 +1,70 @@
+{
+"products with advanced pricing": [
+  {
+        "sku": "TST-Simple-Tier-fixed-1",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Simple Product 1 imported with Tier Price",
+        "description": "This is a simple product imported and created along with tier prices. The tier price here is set to flat value. Meaning the product price will be the value specified in the tier price if customer tries to purchase the set product quantity.
+The price of this product will be reduced to 25 if customers from the General group purchase it in quantity of 100 or more.
+The price of this product will be reduced to 25 if not logged in customers purchase it in quantity of 150 or more.",
+        "price": "30",
+        "tier_prices": "General,100,25,0,All|NOT LOGGED IN,150,25,0,All"
+      },
+      {
+        "sku": "TST-Simple-Tier-fixed-2",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Simple Product 2 imported with Tier Price",
+        "description": "This is a simple product imported and created along with tier prices. The tier price here is set to flat value. Meaning the product price will be the value specified in the tier price if customer tries to purchase the set product quantity.
+The price of this product will be reduced to 35 if customers from the General group purchase it in quantity of 100 or more.
+The price of this product will be reduced to 35 if not logged in customers purchase it in quantity of 150 or more.",
+        "price": "40",
+        "tier_prices": "General,100,35,0,All|NOT LOGGED IN,150,35,0,All"
+      },
+      {
+        "sku": "TST-Simple-Tier-percent-3",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Simple Product 3 imported with Tier Price",
+        "description": "This is a simple product imported and created along with tier prices. The tier price here is set to percent value. Meaning the product price will be discounted for the percent value specified in the tier price if customer tries to purchase the set product quantity.
+The price of this product will be discounted by 10% if customers from the General group purchase it in quantity of 200 or more.
+The price of this product will be discounted by 10% if not logged in customers purchase it in quantity of 300 or more.",
+        "price": "50",
+        "tier_prices": "General,200,0,10,All|NOT LOGGED IN,300,0,10,All"
+      },
+      {
+        "sku": "TST-Simple-Tier-percent-4",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Simple Product 4 imported with Tier Price",
+        "description": "This is a simple product imported and created along with tier prices. The tier price here is set to percent value. Meaning the product price will be discounted for the percent value specified in the tier price if customer tries to purchase the set product quantity.
+The price of this product will be discounted by 15% if customers from the General group purchase it in quantity of 200 or more.
+The price of this product will be discounted by 15% if not logged in customers purchase it in quantity of 300 or more.",
+        "price": "60",
+        "tier_prices": "General,200,0,15,All|NOT LOGGED IN,300,0,15,All"
+      },
+      {
+        "sku": "TST-Simple-Tier-both-5",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Simple Product 5 imported with Tier Price",
+        "description": "This is a simple product imported and created along with tier prices. The tier prices here are both, percent and flat values. Meaning the product price will change depending the quantity of product customer tries to purchase.
+The price of this product will be reduced to 60 if customers from the General group purchase it in quantity of 400 or more.
+The price of this product will be discounted by 10% if not logged in customers purchase it in quantity of 500 or more.",
+        "price": "70",
+        "tier_prices": "General,400,60,0,All|NOT LOGGED IN,500,0,10,All"
+      },
+      {
+        "sku": "TST-Simple-Tier-both-6",
+        "attribute_set_code": "Default",
+        "product_type": "simple",
+        "name": "Simple Product 6 imported with Tier Price",
+        "description": "This is a simple product imported and created along with tier prices. The tier prices here are both, percent and flat values. Meaning the product price will change depending the quantity of product customer tries to purchase.
+The price of this product will be reduced to 70 if customers from the General group purchase it in quantity of 400 or more.
+The price of this product will be discounted by 15% if not logged in customers purchase it in quantity of 500 or more.",
+        "price": "80",
+        "tier_prices": "General,400,70,0,All|NOT LOGGED IN,500,0,15,All"
+      }
+    ]
+  }

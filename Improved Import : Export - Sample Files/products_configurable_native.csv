@@ -1,0 +1,5 @@
+sku,attribute_set_code,product_type,categories,name,description,short_description,price,configurable_variations,configurable_variation_labels,associated_skus,additional_attributes
+Shirt-Red,Default,simple,Default Category,Red Shirt,A red shirt.,A shirt,20,,,,"color=Red,has_options=0,required_options=0"
+Shirt-Green,Default,simple,Default Category,Green Shirt,A green shirt.,A shirt,20,,,,"color=Green,has_options=0,required_options=0"
+Shirt-Blue,Default,simple,Default Category,Blue Shirt,A blue shirt.,A shirt,20,,,,"color=Blue,has_options=0,required_options=0"
+Shirt,Default,configurable,Default Category,Shirt,A shirt of three colors.,A shirt,,"sku=Shirt-Red,color=Red|sku=Shirt-Green,color=Green|sku=Shirt-Blue,color=blue",color=Choose Color,"Shirt-Red,Shirt-Green,Shirt-Blue",
