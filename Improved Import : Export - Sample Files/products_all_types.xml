@@ -4,7 +4,33 @@
     <sku>TST-Conf-Simp-S-Gray</sku>
     <group>TST-Conf</group>
     <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>S</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value>S</value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -97,7 +123,33 @@
     <sku>TST-Conf-Simp-S-Green</sku>
     <group>TST-Conf</group>
     <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>S</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value>S</value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -190,7 +242,33 @@
     <sku>TST-Conf-Simp-S-Purple</sku>
     <group>TST-Conf</group>
     <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>S</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value>S</value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -283,7 +361,33 @@
     <sku>TST-Conf-Simp-M-Gray</sku>
     <group>TST-Conf</group>
     <tier_prices>General,100,50,0,All|Retailer,200,45,0,All</tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>M</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value>M</value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -376,7 +480,33 @@
     <sku>TST-Conf-Simp-M-Green</sku>
     <group>TST-Conf</group>
     <tier_prices>General,100,50,0,All|Retailer,200,45,0,All</tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>M</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value>M</value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -469,7 +599,33 @@
     <sku>TST-Conf-Simp-M-Purple</sku>
     <group>TST-Conf</group>
     <tier_prices>General,100,50,0,All|Retailer,200,45,0,All</tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>M</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value>M</value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -562,7 +718,33 @@
     <sku>TST-Conf-Simp-L-Gray</sku>
     <group>TST-Conf</group>
     <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>L</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value>L</value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -655,7 +837,33 @@
     <sku>TST-Conf-Simp-L-Green</sku>
     <group>TST-Conf</group>
     <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>L</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value>L</value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -748,7 +956,33 @@
     <sku>TST-Conf-Simp-L-Purple</sku>
     <group>TST-Conf</group>
     <tier_prices>General,360,0,3,All|Retailer,360,0,3,All</tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>L</attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value>L</value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -841,7 +1075,33 @@
     <sku>TST-Conf</sku>
     <group></group>
     <tier_prices></tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value></value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>configurable</product_type>
@@ -934,7 +1194,33 @@
     <sku>TST-GrpBnd-Simple-1</sku>
     <group></group>
     <tier_prices></tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+		<value></value>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -1027,7 +1313,32 @@
     <sku>TST-GrpBnd-Simple-2</sku>
     <group></group>
     <tier_prices></tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -1120,7 +1431,32 @@
     <sku>TST-GrpBnd-Simple-3</sku>
     <group></group>
     <tier_prices></tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
@@ -1213,7 +1549,32 @@
     <sku>TST-GrpBnd-Grouped</sku>
     <group></group>
     <tier_prices></tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>grouped</product_type>
@@ -1306,7 +1667,32 @@
     <sku>TST-GrpBnd-Bundle-DynamicPrice</sku>
     <group></group>
     <tier_prices></tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>bundle</product_type>
@@ -1399,7 +1785,32 @@
     <sku>TST-GrpBnd-Bundle-FixedPrice</sku>
     <group></group>
     <tier_prices></tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>bundle</product_type>
@@ -1492,7 +1903,32 @@
     <sku>TST-Dwnl-1</sku>
     <group></group>
     <tier_prices></tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>downloadable</product_type>
@@ -1585,7 +2021,32 @@
     <sku>TST-Dwnl-2</sku>
     <group></group>
     <tier_prices></tier_prices>
-    <attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default></attribute|attribute_code:size|frontend_input:select|is_required:0|is_global:1|default_value_text:XS|is_unique:0|frontend_class:validate-alphanum|is_used_in_grid:1|is_filterable_in_grid:1|is_searchable:1|search_weight:3|is_visible_in_advanced_search:0|is_comparable:0|is_filterable:1|is_filterable_in_search:1|position:2|is_used_for_promo_rules:0|is_html_allowed_on_front:1|is_visible_on_front:1|used_in_product_listing:0|used_for_sort_by:1|frontend_label_0:Size|frontend_label_1:Size|attribute_set:Default>
+    <create_attribute>
+		<attribute_code>size</attribute_code>
+		<frontend_input>select</frontend_input>
+		<is_required>0</is_required>
+		<is_global>1</is_global>
+		<default_value_text>XS</default_value_text>
+		<is_unique>0</is_unique>
+		<frontend_class>validate-alphanum</frontend_class>
+		<is_used_in_grid>1</is_used_in_grid>
+		<is_filterable_in_grid>1</is_filterable_in_grid>
+		<is_searchable>1</is_searchable>
+		<search_weight>3</search_weight>
+		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+		<is_comparable>0</is_comparable>
+		<is_filterable>1</is_filterable>
+		<is_filterable_in_search>1</is_filterable_in_search>
+		<position>2</position>
+		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+		<is_visible_on_front>1</is_visible_on_front>
+		<used_in_product_listing>0</used_in_product_listing>
+		<used_for_sort_by>1</used_for_sort_by>
+		<frontend_label_0>Size</frontend_label_0>
+		<frontend_label_1>Size</frontend_label_1>
+		<attribute_set>Default</attribute_set>
+	</create_attribute>
     <store_view_code>default</store_view_code>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>downloadable</product_type>
