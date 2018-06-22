@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <sku>NEW-S-Gray</sku>
+    <group>NEW</group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable-simple product-S-Gray</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+	<color>Gray</color>
+	<size>S</size>
+    <additional_attributes>color=Gray,size=S</additional_attributes>
+  </item>
+  <item>
+    <sku>NEW-S-Green</sku>
+    <group>NEW</group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable-simple product-S-Green</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+    <color>Green</color>
+	<size>S</size>
+  </item>
+  <item>
+    <sku>NEW-S-Purple</sku>
+    <group>NEW</group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable-simple product-S-Purple</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+    <color>Purple</color>
+	<size>S</size>
+  </item>
+  <item>
+    <sku>NEW-M-Gray</sku>
+    <group>NEW</group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable-simple product-M-Gray</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+    <color>Gray</color>
+	<size>M</size>
+  </item>
+  <item>
+    <sku>NEW-M-Green</sku>
+    <group>NEW</group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable-simple product-M-Green</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+    <color>Green</color>
+	<size>M</size>
+  </item>
+  <item>
+    <sku>NEW-M-Purple</sku>
+    <group>NEW</group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable-simple product-M-Purple</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+    <color>Purple</color>
+	<size>M</size>
+  </item>
+  <item>
+    <sku>NEW-L-Gray</sku>
+    <group>NEW</group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable-simple product-L-Gray</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+    <color>Gray</color>
+	<size>L</size>
+  </item>
+  <item>
+    <sku>NEW-L-Green</sku>
+    <group>NEW</group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable-simple product-L-Green</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+    <color>Green</color>
+	<size>L</size>
+  </item>
+  <item>
+    <sku>NEW-L-Purple</sku>
+    <group>NEW</group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable-simple product-L-Purple</name>
+    <description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test simple product that belongs to the test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+    <color>Purple</color>
+	<size>L</size>
+  </item>
+  <item>
+    <sku>NEW</sku>
+    <group></group>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>configurable</product_type>
+    <categories>Default Category/Women/Tops/Hoodies &amp; Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category</categories>
+    <name>Test Configurable product</name>
+    <description>&lt;p&gt;This is a test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;
+&lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+    <short_description>&lt;p&gt;This is a test configurable product named Test Configurable Product with SKU: TST-Conf.&lt;/p&gt;</short_description>
+    <price>68</price>
+    <color></color>
+	<size></size>
+  </item>
+</Items>
