@@ -30,18 +30,19 @@
 <h2><a href="https://firebearstudio.com/the-improved-import.html">Imroved Import and Export extension for Magento 2</a></h2>
 <ul>
   <li>If you are looking for the way to automate import and export procedures</li>
-  <li>If you want to import from XML, CSV or Json files</li>
+  <li>If you want to import from XML, CSV, Json, XLSX, ODS files</li>
   <li>If you need to map attributes and categories</li>
-  <li>If you require order, category, cart price rule import</li>
+  <li>If you require order, category, cart price rule, product attribute and sets import</li>
+  <li>If you require Rest or Soap API connection to your CRM, ERP and other systems</li>
 </ul>
-<a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide"><img src="https://firebearstudio.com/media/catalog/product/cache/1/small_image/040ec09b1e35df139433887a97daa66f/m/a/magento2importflow.png" /></a>
+<a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide"><img src="https://firebearstudio.com/media/catalog/product/cache/1/small_image/040ec09b1e35df139433887a97daa66f/m/a/magento2importflowrestapi.png" /></a>
 
 <h3>What is the extension</h3>
 <ul>
   <li><b>Improved Import and Export is a Magento 2 extension</b> - meaning all the management process takes place in the administrator panel. You are not tied to the third party applications and don't have to run anything in the background.</li>
   <li><b>The extension is open code</b> - meaning that you can make necessary code adjustments and even improve existing functionality the way you like.</li>
   <li><b>Customization endpoints</b> - FireBear team have composed a dedicated customization module for Improved Import and Export extension you can use to enhance the extension's functionality.</li>
-  <li><b>Json file support</b> - a first step to Rest API integration with any software you are using for customer or sales management. Try integrating your CRM, ERP or POS systems to the extension.</li>
+  <li><b>Json file support</b> - a single point of the Rest and Soap API integration with any software you are using for customer or sales management. Try integrating your CRM, ERP or POS systems to the extension.</li>
 </ul>
 <p align="center" /><a href="https://firebearstudio.com/blog/the-complete-guide-to-magento-2-product-import-export.html" title="Magento 2 Import Guide">Magento 2 Ultimate Import & Export guide</a></p>
 
@@ -60,9 +61,7 @@
 
 <h2>Magento 2 Improved Import and Export Roadmap</h2>
 <ul>
-<li>Full REST API support - import any XML or JSON data from REST API with automatic authorization, data mapping, and processing. Establish flexible connection to any system.</li>
 <li>Import and export events and job queue and restrictions - build flexible conditions for running import and export jobs after any Magento 2 update, queue jobs, automatically block jobs that depend on any system event or process. For example: order placed, new product or customer created, attribute modified. </li>
-<li>Duplicate import and export jobs, jobs settings, configuration and other.</li>
 <li>Magento 2 product image processing settings and configuration - crop and scale, adjust size and files name, convert to different format, compression and performance optimization.</li>
 <li>Email, WhatsApp, Telegram and other notification possibilities for jobs - send status and debug information about import and export processes.</li>
 <li>Import diff system – a smart algorithm for comparing the current state of Magento 2 and data in the specified import source. Save time and resources by updating only relevant data.</li>
