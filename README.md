@@ -46,7 +46,7 @@
 </ul>
 <p align="center" /><a href="https://firebearstudio.com/blog/the-complete-guide-to-magento-2-product-import-export.html" title="Magento 2 Import Guide">Magento 2 Ultimate Import & Export guide</a></p>
 
-<p align="center" /><a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide"><img src="" /></a></p>
+<p align="center" /><a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import Guide"><img src="https://firebearstudio.com/blog/wp-content/uploads/2016/06/import-mapping-cron-magento2.png" /></a></p>
 
 <h3>Magento 2 Google Sheets import</h3>
 
