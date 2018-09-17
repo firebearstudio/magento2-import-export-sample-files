@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <email>roni_cost@example.com</email>
+    <_website>base</_website>
+    <_store>default</_store>
+    <confirmation>0</confirmation>
+    <created_at>1/16/2018 9:48:37</created_at>
+    <created_in>Default Store View</created_in>
+    <disable_auto_group_change>0</disable_auto_group_change>
+    <dob>12/15/1973</dob>
+    <firstname>Veronica</firstname>
+    <gender>Female</gender>
+    <group_id>1</group_id>
+    <lastname>Costello</lastname>
+    <middlename></middlename>
+    <password_hash>ef55cebdb2034a893d94c36a259cd5edad7001c6bad560a4a45de8872f22944b:Dr0YM5KykTZZlAv628Fgk8A1ijMw6qHu:1</password_hash>
+    <prefix></prefix>
+    <rp_token>09ae7838f74dc08343252255d7c69bf8</rp_token>
+    <rp_token_created_at>1/16/2018</rp_token_created_at>
+    <store_id>1</store_id>
+    <suffix></suffix>
+    <taxvat></taxvat>
+    <website_id>1</website_id>
+    <password></password>
+    <_address_city>Calder</_address_city>
+    <_address_company></_address_company>
+    <_address_country_id>US</_address_country_id>
+    <_address_fax></_address_fax>
+    <_address_firstname>Veronica</_address_firstname>
+    <_address_lastname>Costello</_address_lastname>
+    <_address_middlename></_address_middlename>
+    <_address_postcode>49628-7978</_address_postcode>
+    <_address_prefix></_address_prefix>
+    <_address_region>MI</_address_region>
+    <_address_street>6146 Honey Bluff Parkway</_address_street>
+    <_address_suffix></_address_suffix>
+    <_address_telephone>(555) 229-3326</_address_telephone>
+    <_address_vat_id></_address_vat_id>
+    <_address_default_billing_></_address_default_billing_>
+    <_address_default_shipping_></_address_default_shipping_>
+  </item>
+  <item>
+    <email>doe@test.com</email>
+    <_website>base</_website>
+    <_store>default</_store>
+    <confirmation>1</confirmation>
+    <created_at>2/7/2018 9:15:00</created_at>
+    <created_in>Default Store View</created_in>
+    <disable_auto_group_change>1</disable_auto_group_change>
+    <dob>5/10/1986</dob>
+    <firstname>John</firstname>
+    <gender>Male</gender>
+    <group_id>1</group_id>
+    <lastname>Doe</lastname>
+    <middlename>D</middlename>
+    <password_hash>0dae96ff085057cfd5ec9531878416a2611dadaa67731964d12143858d20e4a6:1YwspSypMib3ra3pHCX8VPSfUzrDyO5K:1</password_hash>
+    <prefix>Mr.</prefix>
+    <rp_token></rp_token>
+    <rp_token_created_at></rp_token_created_at>
+    <store_id>1</store_id>
+    <suffix>Jr.</suffix>
+    <taxvat>EU555555555</taxvat>
+    <website_id>1</website_id>
+    <password></password>
+    <_address_city>Test</_address_city>
+    <_address_company>FireBear Studio</_address_company>
+    <_address_country_id>DE</_address_country_id>
+    <_address_fax></_address_fax>
+    <_address_firstname>John</_address_firstname>
+    <_address_lastname>Doe</_address_lastname>
+    <_address_middlename>D</_address_middlename>
+    <_address_postcode>12345</_address_postcode>
+    <_address_prefix>Mr.</_address_prefix>
+    <_address_region></_address_region>
+    <_address_street>Test
+23</_address_street>
+    <_address_suffix>Jr.</_address_suffix>
+    <_address_telephone>5555555555</_address_telephone>
+    <_address_vat_id>EU555555555</_address_vat_id>
+    <_address_default_billing_>1</_address_default_billing_>
+    <_address_default_shipping_>1</_address_default_shipping_>
+  </item>
+  <item>
+    <email>roe@test.com</email>
+    <_website>base</_website>
+    <_store>default</_store>
+    <confirmation>0</confirmation>
+    <created_at>2/21/2018 12:28:57</created_at>
+    <created_in>Default Store View</created_in>
+    <disable_auto_group_change>0</disable_auto_group_change>
+    <dob>7/5/1991</dob>
+    <firstname>Jane</firstname>
+    <gender>Female</gender>
+    <group_id>1</group_id>
+    <lastname>Roe</lastname>
+    <middlename>R</middlename>
+    <password_hash></password_hash>
+    <prefix>Mrs.</prefix>
+    <rp_token>5481196900927de23bbbcc5ef4e45716</rp_token>
+    <rp_token_created_at>2/21/2018</rp_token_created_at>
+    <store_id>1</store_id>
+    <suffix>Sr.</suffix>
+    <taxvat>EU555555555</taxvat>
+    <website_id>1</website_id>
+    <password></password>
+    <_address_city>Test</_address_city>
+    <_address_company>FireBear Studio</_address_company>
+    <_address_country_id>DE</_address_country_id>
+    <_address_fax></_address_fax>
+    <_address_firstname>Jane</_address_firstname>
+    <_address_lastname>Roe</_address_lastname>
+    <_address_middlename>R</_address_middlename>
+    <_address_postcode>12345</_address_postcode>
+    <_address_prefix>Mrs.</_address_prefix>
+    <_address_region></_address_region>
+    <_address_street>Test
+96</_address_street>
+    <_address_suffix>Sr.</_address_suffix>
+    <_address_telephone>5555555556</_address_telephone>
+    <_address_vat_id>EU555555555</_address_vat_id>
+    <_address_default_billing_>1</_address_default_billing_>
+    <_address_default_shipping_>1</_address_default_shipping_>
+  </item>
+</Items>
