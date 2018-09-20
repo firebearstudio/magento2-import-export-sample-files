@@ -5,6 +5,7 @@
 <h2>List of Magento 2 sample import files</h2>
 <b><a href="https://github.com/firebearstudio/magento2-import-export-sample-files/tree/master/Improved%20Import%20:%20Export%20-%20Sample%20Files" />/Improved Import : Export - Sample Files</a></b>
 <ul>
+  <li><b>attributes.csv .xml</b> - a file with product attributes and attribute sets and groups. With its help you can create new attributes and attribute sets.</li>
   <li><b>advanced_pricing.csv .xml .json</b> - a native Magento 2 file composition for importing tier prices. Comes with only product SKUs and tier price attributes: <i>tier_price_website, tier_price_customer_group, tier_price_qty, tier_price, tier_price_value_type</i>. These composition is enough to update advanced pricing for existing Magento 2 products.</li>
   <li><b>cart_price_rules.csv .xml .json</b> - a sample file for importing cart price rules to Magento 2 with Improved Import and Export extension. If the file you will find three price rules with different sample coupon codes, discountss and other attributes.</li>
   <li><b>categories.csv .xml .json</b> - a sample file for importing Categories to Magento 2 with Improved Import and Export extension. There are three sample categories you can quickly identify. Each category comes with different settings to show you possible attribute values.</li>
