@@ -1,0 +1,9 @@
+store_id,attribute_code,frontend_label,option:value,option:sort_order,entity_type,attribute_set,group:name,group:sort_order,backend_type,backend_table,frontend_model,frontend_input,frontend_class,source_model,is_required,is_user_defined,default_value,is_unique,note,frontend_input_renderer,is_global,is_visible,is_searchable,is_filterable,is_comparable,is_visible_on_front,is_html_allowed_on_front,is_used_for_price_rules,is_filterable_in_search,used_in_product_listing,used_for_sort_by,apply_to,is_visible_in_advanced_search,position,is_wysiwyg_enabled,is_used_for_promo_rules,is_required_in_admin_store,is_used_in_grid,is_visible_in_grid,is_filterable_in_grid,search_weight,additional_data
+0,testing-color,Color,Green,1,product,New Default,General,,int,,,select,,,0,1,,0,,,1,1,1,1,1,1,1,1,1,1,0,"simple,virtual,configurable",1,0,0,0,0,1,0,1,1,
+0,testing-color,,Blue,2,,New Default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,testing-color,,Red,3,,New Default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,testing-color,,Yellow,4,,New Default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,testing-material,Material,Steel,1,product,New Default,General,,int,,,multiselect,,,0,1,,0,,,1,1,1,1,1,1,1,1,1,1,0,"simple,virtual,configurable",1,0,0,0,0,1,0,1,1,
+0,testing-material,,Aluminium,2,,New Default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,testing-material,,Wool,3,,New Default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,testing-material,,Cotton,4,,New Default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
