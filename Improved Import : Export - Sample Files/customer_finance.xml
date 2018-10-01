@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <_email>roni_cost@example.com</_email>
+    <_website>base</_website>
+    <_finance_website>base</_finance_website>
+    <store_credit>20</store_credit>
+    <reward_points>100</reward_points>
+  </item>
+  <item>
+    <_email>test@test.com</_email>
+    <_website>base</_website>
+    <_finance_website>base</_finance_website>
+    <store_credit>555</store_credit>
+    <reward_points>444</reward_points>
+  </item>
+</Items>
