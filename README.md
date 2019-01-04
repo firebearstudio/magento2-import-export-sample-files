@@ -2,6 +2,7 @@
 
 <p>In this repository we have gathered all sample files for Magento 2 import and export procedures. Every file has been tested with the different Magento 2 versions and latest release of <b><a href="https://firebearstudio.com/the-improved-import.html">Improved Import and Export extension</a></b>.</p>
 <p align="center" />If you are new to the import process - start by reading <b><a href="https://firebearstudio.com/blog/the-complete-guide-to-magento-2-product-import-export.html">FireBear Studio Magento 2 import guide</a></b>.</p>
+</p>The latest release of Magento 2 Improved Import and Export extension added support of <a href="https://firebearstudio.com/blog/magento-2-b2b-commercecloud-how-to-import-and-export-companies-requisition-lists-shared-catalogs-and-negotiable-quotes.html" ><b>B2B Add-On</b></a>. The add-on allows to import and export all Magento 2 B2B entities: companies, shared catalogs, requisition lists and quotes and negotiable quotes. All B2B sample files can be found here with b2b prefix.</p>
 <h2>List of Magento 2 sample import files</h2>
 <b><a href="https://github.com/firebearstudio/magento2-import-export-sample-files/tree/master/Improved%20Import%20:%20Export%20-%20Sample%20Files" />/Improved Import : Export - Sample Files</a></b>
 <ul>
@@ -79,3 +80,6 @@
 <li>Full circle Magento 2 integration and synchronization of products and orders with top drop-shipping providers (Doba, Dropship Direct, Wholesale2b, Aliexpress, Taobao, Alibaba etc. more details at <a href=”https://firebearstudio.com/blog/ultimate-list-of-drop-shipping-platforms-and-integrations.html” />Ultimate List Of Drop Shipping Platforms And Integrations</a>). </li>
 </ul>
 
+<h2>Partner with Firebear and fire up your business</h2>
+Get special discounts, participate in adjusting the development roadmap and more. Firebear Studio is looking forward to partner with development agencies and anyone interested in cooperating with the most popular Magento blog on web.
+<p align="center" /><a href="https://firebearstudio.com/blog/introducing-firebear-partner-loyalty-program.html" ><b>Read more about Firebear partner program</b></a></p>
