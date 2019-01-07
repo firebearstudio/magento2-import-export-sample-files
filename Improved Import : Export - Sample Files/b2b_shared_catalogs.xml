@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <name>Shared Catalog 1</name>
+  <description>Description of Shared Catalog 1</description>
+  <type>0</type>
+  <tax_class_id>3</tax_class_id>
+  <company>email@firebear.com</company>
+  <sku>24-MB04,24-MB03,MJ01-XS-Orange,MJ01-XS-Red,MJ01-XS-Yellow,MJ01-S-Orange,MJ01-S-Red,MJ01-S-Yellow,MJ01-M-Orange,MJ01-M-Red,MJ01-M-Yellow,MJ01-L-Orange,MJ01-L-Red,MJ01-L-Yellow,MJ01-XL-Orange,MJ01-XL-Red,MJ01-XL-Yellow,MJ01,MJ02-XS-Green,MJ02-XS-Orange,MJ02-XS-Red,MJ02-S-Green,MJ02-S-Orange,MJ02-S-Red,MJ02-M-Green,MJ02-M-Orange,MJ02-M-Red,MJ02-L-Green,MJ02-L-Orange,MJ02-L-Red,MJ02-XL-Green,MJ02-XL-Orange,MJ02-XL-Red,MJ02,MJ04-XS-Black,MJ04-XS-Blue,MJ04-XS-Purple,MJ04-S-Black,MJ04-S-Blue,MJ04-S-Purple,MJ04-M-Black,MJ04-M-Blue,MJ04-M-Purple,MJ04-L-Black,MJ04-L-Blue,MJ04-L-Purple,MJ04-XL-Black,MJ04-XL-Blue,MJ04-XL-Purple,MJ04,MJ07-XS-Black,MJ07-XS-Red,MJ07-XS-Yellow,MJ07-S-Black,MJ07-S-Red,MJ07-S-Yellow,MJ07-M-Black,MJ07-M-Red,MJ07-M-Yellow,MJ07-L-Black,MJ07-L-Red,MJ07-L-Yellow,MJ07-XL-Black,MJ07-XL-Red,MJ07-XL-Yellow,MJ07,MJ08-XS-Blue,MJ08-XS-Gray,MJ08-XS-Green,MJ08-S-Blue,MJ08-S-Gray,MJ08-S-Green,MJ08-M-Blue,MJ08-M-Gray,MJ08-M-Green,MJ08-L-Blue,MJ08-L-Gray,MJ08-L-Green,MJ08-XL-Blue,MJ08-XL-Gray,MJ08-XL-Green,MJ08,MJ09-XS-Blue,MJ09-XS-White,MJ09-XS-Yellow,MJ09-S-Blue,MJ09-S-White,MJ09-S-Yellow,MJ09-M-Blue,MJ09-M-White,MJ09-M-Yellow,MJ09-L-Blue,MJ09-L-White,MJ09-L-Yellow,MJ09-XL-Blue,MJ09-XL-White,MJ09-XL-Yellow,MJ09,MJ10-XS-Black,MJ10-XS-Orange,MJ10-XS-Red,MJ10-S-Black,MJ10-S-Orange,MJ10-S-Red,MJ10-M-Black,MJ10-M-Orange,MJ10-M-Red,MJ10-L-Black,MJ10-L-Orange,MJ10-L-Red,MJ10-XL-Black,MJ10-XL-Orange,MJ10-XL-Red,MJ10,MJ11-XS-Black,MJ11-XS-Green,MJ11-XS-Red,MJ11-S-Black,MJ11-S-Green,MJ11-S-Red,MJ11-M-Black,MJ11-M-Green,MJ11-M-Red,MJ11-L-Black,MJ11-L-Green,MJ11-L-Red,MJ11-XL-Black,MJ11-XL-Green,MJ11-XL-Red,MJ11,MJ06-XS-Blue,MJ06-XS-Green,MJ06-XS-Purple,MJ06-S-Blue,MJ06-S-Green,MJ06-S-Purple,MJ06-M-Blue,MJ06-M-Green,MJ06-M-Purple,MJ06-L-Blue,MJ06-L-Green,MJ06-L-Purple,MJ06-XL-Blue,MJ06-XL-Green,MJ06-XL-Purple,MJ06,MJ03-XS-Black,MJ03-XS-Green,MJ03-XS-Red,MJ03-S-Black,MJ03-S-Green,MJ03-S-Red,MJ03-M-Black,MJ03-M-Green,MJ03-M-Red,MJ03-L-Black,MJ03-L-Green,MJ03-L-Red,MJ03-XL-Black,MJ03-XL-Green,MJ03-XL-Red,MJ03,MJ12-XS-Black,MJ12-XS-Blue,MJ12-XS-Orange,MJ12-S-Black,MJ12-S-Blue,MJ12-S-Orange,MJ12-M-Black,MJ12-M-Blue,MJ12-M-Orange,MJ12-L-Black,MJ12-L-Blue,MJ12-L-Orange,MJ12-XL-Black,MJ12-XL-Blue,MJ12-XL-Orange,MJ12,MT01-XS-Gray,MT01-XS-Orange,MT01-XS-Red,MT01-S-Gray,MT01-S-Orange,MT01-S-Red,MT01-M-Gray,MT01-M-Orange,MT01-M-Red,MT01-L-Gray,MT01-L-Orange,MT01-L-Red,MT01-XL-Gray,MT01-XL-Orange,MT01-XL-Red,MT01,MT02-XS-Gray,MT02-XS-Red,MT02-XS-White,MT02-S-Gray,MT02-S-Red,MT02-S-White,MT02-M-Gray,MT02-M-Red,MT02-M-White,MT02-L-Gray,MT02-L-Red,MT02-L-White,MT02-XL-Gray,MT02-XL-Red,MT02-XL-White,MT02,MT03-XS-Blue,MT03-XS-Red,MT03-XS-Yellow,MT03-S-Blue,MT03-S-Red,MT03-S-Yellow,MT03-M-Blue,MT03-M-Red,MT03-M-Yellow,MT03-L-Blue,MT03-L-Red,MT03-L-Yellow,MT03-XL-Blue,MT03-XL-Red,MT03-XL-Yellow,MT03,MT04-XS-Blue,MT04-S-Blue,MT04-M-Blue,MT04-L-Blue,MT04-XL-Blue,MT04,MT05-XS-Blue,MT05-S-Blue,MT05-M-Blue,MT05-L-Blue,MT05-XL-Blue,MT05,MT06-XS-Black,MT06-S-Black,MT06-M-Black,MT06-L-Black,MT06-XL-Black,MT06,MT07-XS-Gray,MT07-S-Gray,MT07-M-Gray,MT07-L-Gray,MT07-XL-Gray,MT07,MT08-XS-Green,MT08-S-Green,MT08-M-Green,MT08-L-Green,MT08-XL-Green,MT08,MT09-XS-Blue,MT09-S-Blue,MT09-M-Blue,MT09-L-Blue,MT09-XL-Blue,MT09,MT10-XS-Yellow,MT10-S-Yellow,MT10-M-Yellow,MT10-L-Yellow,MT10-XL-Yellow,MT10,MT11-XS-Blue,MT11-S-Blue,MT11-M-Blue,MT11-L-Blue,MT11-XL-Blue,MT11,MT12-XS-Blue,MT12-S-Blue,MT12-M-Blue,MT12-L-Blue,MT12-XL-Blue,MT12</sku>
+  <category>3,4,7,15,37,2,18</category>
+ </item>
+ <item>
+  <name>Shared Catalog 2</name>
+  <description>Description of Shared Catalog 2</description>
+  <type>0</type>
+  <tax_class_id>4</tax_class_id>
+  <company>billy@microsoft.com,steve@apple.com</company>
+  <sku>24-MB01,24-MB04,24-MB03,24-MB05,24-MB06,24-MB02,24-UB02,24-WB01,24-WB02,24-WB05,24-WB06,24-WB03,24-WB07,24-WB04,24-MG04,24-MG01,24-MG03,24-MG05,24-MG02,24-WG09,24-WG01,24-WG03,24-WG02</sku>
+  <category>3,4,7,8,6</category>
+ </item>
+</Items>

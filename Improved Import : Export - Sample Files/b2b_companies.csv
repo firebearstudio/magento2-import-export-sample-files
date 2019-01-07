@@ -1,0 +1,4 @@
+company_name,status,company_email,legal_name,comment,street,city,country_id,postcode,telephone,customer_group_id,website_id,email,job_title,firstname,lastname,credit_limit,balance,currency_code,exceed_limit,credit_comment,is_quote_enabled,applicable_payment_method,use_config_settings,available_payment_methods
+FireBear,1,email@firebear.com,FireBear,FireBear Company,street,Moscow,RU,12888,3444,1,1,john@gmail.com,Director,John,Smitt,67,10000,USD,1,Reason change,1,2,1,"amazon_payment,cashondelivery"
+Microsoft,1,billy@microsoft.com,Microsoft,Microsoft Company,street,New York,AF,12888,6777,1,1,billy@microsoft.com,Developer,Bill,Gates,45,5000,USD,0,,,1,,
+Apple,2,steve@apple.com,Apple,Apple Company,street,Los Angeles,RU,12888,8967,1,1,steve@apple.com,Tester,Steve,Jobs,23,2500,USD,1,,,1,,

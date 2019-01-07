@@ -1,0 +1,3 @@
+name,description,tax_class_id,type,company,category,sku
+Shared Catalog 1,Description of Shared Catalog 1,3,0,email@firebear.com,"15,18","24-MB04,24-MB03"
+Shared Catalog 2,Description of Shared Catalog 2,4,0,"billy@microsoft.com,steve@apple.com","4,6",

@@ -1,0 +1,19 @@
+increment_id,store_id,customer_email,item:sku,item:qty,item_option:code,item_option:value
+1,1,john@gmail.com,24-WG02,1,,
+,,,24-WB03,2,first code,first value
+,,,,,second code,second value
+,,,,,third code,third value
+,,,24-MB06,5,,
+,,,24-MB05,10,,
+,,,24-WB04,11,,
+2,1,steve@apple.com,24-UB02,1,,
+,,,24-MG04,3,,
+,,,24-UG03,4,,
+,,,24-MB06,5,,
+,,,24-WB03,2,,
+3,1,doe@test.com,24-MB01,1,,
+,,,24-MB04,2,,
+,,,24-MB03,3,first code,first value
+,,,,,second code,second value
+,,,24-UB02,5,option with empty value,
+,,,24-UG07,6,,

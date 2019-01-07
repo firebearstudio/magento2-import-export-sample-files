@@ -1,0 +1,19 @@
+increment_id,store_id,customer_email,item:sku,item:qty,item_option:code,item_option:value,negotiable:negotiated_price_type,negotiable:negotiated_price_value,negotiable:quote_name,negotiable_comment:creator_type,negotiable_comment:creator_id,negotiable_comment:comment,negotiable_comment:created_at,negotiable_comment_attachment:file_name,negotiable_comment_attachment:file_path
+1,1,john@gmail.com,24-WG02,1,,,1,5,Test quote for John,,,First test comment,2018-11-01 17:16:09,test.txt,pub
+,,,24-WB03,2,first code,first value,,,,2,1,Second test comment,2018-11-01 17:16:16,first_attachment.gif,pub/attachments
+,,,,,second code,second value,,,,,,,,second_attachment.jpg,pub/attachments
+,,,,,third code,third value,,,,,,,,,
+,,,24-MB06,5,,,,,,,,,,,
+,,,24-MB05,10,,,,,,,,,,,
+,,,24-WB04,11,,,,,,,,,,,
+2,1,steve@apple.com,24-UB02,1,,,2,100,Test quote for Steve,,,First test comment,2018-11-01 17:16:09,attachment.txt,pub
+,,,24-MG04,3,,,,,,,,,,,
+,,,24-UG03,4,,,,,,,,,,,
+,,,24-MB06,5,,,,,,,,,,,
+,,,24-WB03,2,,,,,,,,,,,
+3,1,doe@test.com,24-MB01,1,,,3,250,Test quote for Doe,,,,,,
+,,,24-MB04,2,,,,,,,,,,,
+,,,24-MB03,3,first code,first value,,,,,,,,,
+,,,,,second code,second value,,,,,,,,,
+,,,24-UB02,5,option with empty value,,,,,,,,,,
+,,,24-UG07,6,,,,,,,,,,,

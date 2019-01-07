@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <customer_id>26</customer_id>
+  <name>First list name</name>
+  <description>Description for first list</description>
+  <updated_at>2019-01-07 11:32:08</updated_at>
+  <item:sku>24-WG02</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>1.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-WB03</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>2.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-MB06</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>3.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-MB05</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>4.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-WB04</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>5.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <customer_id>26</customer_id>
+  <name>Second list name</name>
+  <description>Description for second list</description>
+  <updated_at>2019-01-07 11:32:08</updated_at>
+  <item:sku>24-UB02</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>1.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-MG04</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>2.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-UG03</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>1.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-MB06</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>1.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-WB03</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>1.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <customer_id>27</customer_id>
+  <name>Another list</name>
+  <description>Some text</description>
+  <updated_at>2019-01-07 11:32:08</updated_at>
+  <item:sku>24-MB01</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>1.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-MB04</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>1.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-MB03</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>33.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-UB02</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>4.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+ <item>
+  <item:sku>24-UG07</item:sku>
+  <item:store_id>1</item:store_id>
+  <item:added_at/>
+  <item:qty>1.0000</item:qty>
+  <item:options>{&quot;info_buyRequest&quot;:[]}</item:options>
+ </item>
+</Items>
