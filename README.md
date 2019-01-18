@@ -5,14 +5,23 @@
 </p>The latest release of Magento 2 Improved Import and Export extension added support of <a href="https://firebearstudio.com/blog/magento-2-b2b-commercecloud-how-to-import-and-export-companies-requisition-lists-shared-catalogs-and-negotiable-quotes.html" ><b>B2B Add-On</b></a>. The add-on allows to import and export all Magento 2 B2B entities: companies, shared catalogs, requisition lists and quotes and negotiable quotes. All B2B sample files can be found here with b2b prefix.</p>
 <h2>List of Magento 2 sample import files</h2>
 <b><a href="https://github.com/firebearstudio/magento2-import-export-sample-files/tree/master/Improved%20Import%20:%20Export%20-%20Sample%20Files" />/Improved Import : Export - Sample Files</a></b>
+<h3>B2B Add-on entities</h3>
 <ul>
-  <li><b>attributes.csv .xml .xlsx</b> - a file with product attributes and attribute sets and groups. With its help you can create new attributes and attribute sets.</li>
-  <li><b>advanced_pricing.csv .xml .xlsx .json</b> - a native Magento 2 file composition for importing tier prices. Comes with only product SKUs and tier price attributes: <i>tier_price_website, tier_price_customer_group, tier_price_qty, tier_price, tier_price_value_type</i>. These composition is enough to update advanced pricing for existing Magento 2 products.</li>
   <li><b>b2b_companies.csv .xml .xlsx .ods</b> - companies are a Magento 2 Commerce B2B entity. In this file you will find all company attribues and will be able to import companies with the B2B Add-On to Improved Import and Export extension.</li>
   <li><b>b2b_shared_catalogs.csv .xml .xlsx .ods</b> - shared catalogs are product catalogs available for companies and different customer groups. The catalog format is pretty simple. If you are importing NEW shared catalogs and the assigned customer group doesn't exist - it will be created automatically. Requires B2B Add-On to Improved Import and Export extension.</li>
   <li><b>b2b_requisition_lists.csv .xml .xlsx .ods</b> - requisition lists allow customers to order products on a recurring basis in the most convenient way. Requisition lists can only be managed by customers or via import. Requires B2B Add-On to Improved Import and Export extension.</li>
   <li><b>b2b_quotes.csv .xml .xlsx</b> - quotes are basically abandoned carts of the customers. In this sample file you will find minimum set of attributes required to import products to the customer's carts. Quotes are a part of the negotiable quote - a B2B entity - they share a single import entity with them. Requires B2B Add-On to Improved Import and Export extension.</li>
   <li><b>b2b_negotiable_quotes.csv .xml .xlsx</b> - negotiable quotes are company requests for a discounted price per cart. Negotiable quotes contain 'quote' entity - products in the cart - and require additional attribute to be loaded to make sure the negotiable quotes are properly displayed in the backend. Requires B2B Add-On to Improved Import and Export extension.</li>
+</ul>
+<h3>MSI Add-on entities</h3>
+<ul>
+  <li><b>msi_stock_source.csv .xml. .xlsx .ods</b> - a sample file with the stock sources (warehouses), allows creating/addin new warehouses to the Magento 2 store and updatig existing warehouses.</li>
+  <li><b>msi_source_qty.csv .xml .xlsx .ods</b> - product quantity per stock source (warehouse), allows updating product quantity per warehouse. Products are referenced by SKU and warehouses by source_code attributes.</li>
+</ul>
+<h3>Improved Import and Export extension general Magento 2 entities</h3>
+<ul>
+  <li><b>attributes.csv .xml .xlsx</b> - a file with product attributes and attribute sets and groups. With its help you can create new attributes and attribute sets.</li>
+  <li><b>advanced_pricing.csv .xml .xlsx .json</b> - a native Magento 2 file composition for importing tier prices. Comes with only product SKUs and tier price attributes: <i>tier_price_website, tier_price_customer_group, tier_price_qty, tier_price, tier_price_value_type</i>. These composition is enough to update advanced pricing for existing Magento 2 products.</li>
   <li><b>cart_price_rules.csv .xml .json</b> - a sample file for importing cart price rules to Magento 2 with Improved Import and Export extension. If the file you will find three price rules with different sample coupon codes, discountss and other attributes.</li>
   <li><b>categories.csv .xml .xlsx .json</b> - a sample file for importing Categories to Magento 2 with Improved Import and Export extension. There are three sample categories you can quickly identify. Each category comes with different settings to show you possible attribute values.</li>
   <li><b>cms_pages.csv .xml .xlsx .json</b> - a sample file with CMS blocks that can be imported to Magento 2 with Improved Import and Export extension. Useful when migrating from an old store. Two sample CMS blocks help you understand how to import different settings and attributes and what values Magento 2 accepts.</li>
