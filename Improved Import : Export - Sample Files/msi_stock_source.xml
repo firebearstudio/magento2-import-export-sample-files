@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <source_code>default</source_code>
+  <name>Default Source</name>
+  <enabled>1</enabled>
+  <description>Default Source</description>
+  <latitude>0.000000</latitude>
+  <longitude>0.000000</longitude>
+  <country_id>US</country_id>
+  <region_id>0</region_id>
+  <region></region>
+  <city></city>
+  <street></street>
+  <postcode>0</postcode>
+  <contact_name></contact_name>
+  <email></email>
+  <phone></phone>
+  <fax></fax>
+  <use_default_carrier_config>1</use_default_carrier_config>
+  <carrier_links></carrier_links>
+ </item>
+ <item>
+  <source_code>new-warehouse</source_code>
+  <name>New Warehouse</name>
+  <enabled>1</enabled>
+  <description>New warehouse</description>
+  <latitude>0.000000</latitude>
+  <longitude>0.000000</longitude>
+  <country_id>US</country_id>
+  <region_id>57</region_id>
+  <region></region>
+  <city></city>
+  <street></street>
+  <postcode>12345</postcode>
+  <contact_name>John Doe</contact_name>
+  <email>john@doe.com</email>
+  <phone>123123123</phone>
+  <fax></fax>
+  <use_default_carrier_config>0</use_default_carrier_config>
+  <carrier_links></carrier_links>
+ </item>
+ <item>
+  <source_code>old-warehouse</source_code>
+  <name>Old Warehouse</name>
+  <enabled>1</enabled>
+  <description>This is an old warehouse</description>
+  <latitude>21.000000</latitude>
+  <longitude>12.000000</longitude>
+  <country_id>AE</country_id>
+  <region_id>0</region_id>
+  <region>State</region>
+  <city>City</city>
+  <street>Street</street>
+  <postcode>54321</postcode>
+  <contact_name>Old Warehouse contact name</contact_name>
+  <email>old-warehouse@email.com</email>
+  <phone>321321321</phone>
+  <fax>123-123-1231</fax>
+  <use_default_carrier_config>1</use_default_carrier_config>
+  <carrier_links></carrier_links>
+ </item>
+</Items>

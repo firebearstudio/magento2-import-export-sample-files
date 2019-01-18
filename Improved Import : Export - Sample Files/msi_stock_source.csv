@@ -1,0 +1,4 @@
+source_code,name,enabled,description,latitude,longitude,country_id,region_id,region,city,street,postcode,contact_name,email,phone,fax,use_default_carrier_config,carrier_links
+default,Default Source,1,Default Source,0,0,US,,,,,0,,,,,1,
+new-warehouse,New Warehouse,1,This is a new warehouse,99.999999,123,US,1,,City,Street,12345,Warehouse contact name,warehouse@email.com,123123123,321-321-3213,1,
+old-warehouse,Old Warehouse,1,This is an old warehouse,21,12,AE,,State,City,Street,54321,Old Warehouse contact name,old-warehouse@email.com,321321321,123-123-1231,1,
