@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <block_id>19</block_id>
+  <content>&lt;p&gt;Content of the &lt;strong&gt;custom static block #1&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+  <creation_time>2019-02-10 07:29:55</creation_time>
+  <identifier>custom-block-1</identifier>
+  <is_active>1</is_active>
+  <title>Custom static block #1</title>
+  <update_time>2019-02-10 07:42:11</update_time>
+  <store_view_code>All</store_view_code>
+ </item>
+ <item>
+  <block_id>20</block_id>
+  <content>&lt;p&gt;Content of the &lt;strong&gt;custom static block #2&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+  <creation_time>2019-02-10 07:29:55</creation_time>
+  <identifier>custom-block-2</identifier>
+  <is_active>1</is_active>
+  <title>Custom static block #2</title>
+  <update_time>2019-02-10 07:42:11</update_time>
+  <store_view_code>All,default</store_view_code>
+ </item>
+ <item>
+  <block_id>21</block_id>
+  <content>&lt;p&gt;Content of the &lt;strong&gt;custom static block #3&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+  <creation_time>2019-02-10 07:29:55</creation_time>
+  <identifier>custom-block-3</identifier>
+  <is_active>1</is_active>
+  <title>Custom static block #3</title>
+  <update_time>2019-02-10 07:42:11</update_time>
+  <store_view_code>default</store_view_code>
+ </item>
+</Items>

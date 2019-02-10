@@ -1,0 +1,7 @@
+block_id,content,creation_time,identifier,is_active,title,update_time,store_view_code
+19,"<p>Content of the <strong>custom static block #1</strong>.</p>
+<p>&nbsp;</p>",2019-02-10 7:29:55,custom-block-1,1,Custom static block #1,2019-02-10 7:29:55,All
+20,"<p>Content of the <strong>custom static block #2</strong>.</p>
+<p>&nbsp;</p>",2019-02-10 7:29:55,custom-block-2,1,Custom static block #2,2019-02-10 7:30:17,"All,default"
+21,"<p>Content of the <strong>custom static block #3</strong>.</p>
+<p>&nbsp;</p>",2019-02-10 7:29:55,custom-block-3,1,Custom static block #3,2019-02-10 7:30:38,default
