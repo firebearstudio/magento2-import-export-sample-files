@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <query_id>1</query_id>
+  <query_text>Test Configurable</query_text>
+  <num_results>2</num_results>
+  <popularity>2</popularity>
+  <redirect/>
+  <store_id>1</store_id>
+  <display_in_terms>1</display_in_terms>
+  <is_active>1</is_active>
+  <is_processed>0</is_processed>
+  <updated_at>2019-01-21 18:10:26</updated_at>
+ </item>
+ <item>
+  <query_id>2</query_id>
+  <query_text>firebear</query_text>
+  <num_results>0</num_results>
+  <popularity>1</popularity>
+  <redirect>https://firebearstudio.com/</redirect>
+  <store_id>1</store_id>
+  <display_in_terms>1</display_in_terms>
+  <is_active>1</is_active>
+  <is_processed>0</is_processed>
+  <updated_at>2019-02-13 06:19:21</updated_at>
+ </item>
+ <item>
+  <query_id>3</query_id>
+  <query_text>import</query_text>
+  <num_results>0</num_results>
+  <popularity>1</popularity>
+  <redirect>https://firebearstudio.com/the-improved-import.html</redirect>
+  <store_id>1</store_id>
+  <display_in_terms>1</display_in_terms>
+  <is_active>1</is_active>
+  <is_processed>0</is_processed>
+  <updated_at>2019-02-13 06:19:21</updated_at>
+ </item>
+</Items>

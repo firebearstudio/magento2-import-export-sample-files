@@ -1,0 +1,4 @@
+query_id,query_text,num_results,popularity,redirect,store_id,display_in_terms,is_active,is_processed,updated_at
+1,"Test Configurable",2,2,,1,1,1,0,"2019-01-21 18:10:26"
+2,firebear,0,1,https://firebearstudio.com/,1,1,1,0,"2019-02-13 06:19:21"
+3,import,0,1,https://firebearstudio.com/the-improved-import.html,1,1,1,0,"2019-02-13 06:19:21"

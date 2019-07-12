@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <group_id>1</group_id>
+  <synonyms>firebear,studio,fire,bear</synonyms>
+  <store_id>0</store_id>
+  <website_id>0</website_id>
+ </item>
+ <item>
+  <group_id>2</group_id>
+  <synonyms>import,export,magento2</synonyms>
+  <store_id>0</store_id>
+  <website_id>0</website_id>
+ </item>
+</Items>
