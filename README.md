@@ -45,6 +45,7 @@
   <li><b>products_swatches_import.csv</b> - allows importing color swatches for products. The swatches can be imported with color HEX code or using the URL to the swatch image.</li>
   <li><b>search_synonyms.csv .xml .ods .xlsx</b> - allows importing search synonyms for Magento 2. Make sure you are not using the same word for different synonym groups to avoid errors.</li>
   <li><b>search_terms.csv .xml .ods .xlsx</b> - allows importing search terms for Magento 2. The search terms defines any URL redirects for customer search queries.</li>
+  <li><b>product_position_in_category.csv</b> - this file features 'products' entity with custom 'categories_position' attribute which allows to import product position inside of a category.</li>
 </ul>
 <p align="center" />Up to date default <a href="https://github.com/magento/magento2/">Magento 2 Open Source (CE) & Commerce (EE, Cloud) import</a> / export CSV files &amp; sample files for <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export">Firebear Improved Import / Export extension</a> (CSV, XML, Json)</p>
 
