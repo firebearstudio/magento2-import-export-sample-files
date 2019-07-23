@@ -1,0 +1,11 @@
+node_id,parent_node_id,page_id,identifier,label,level,sort_order,request_url,xpath,scope,scope_id,meta_first_last,meta_next_previous,meta_chapter,meta_section,meta_cs_enabled,pager_visibility,pager_frame,pager_jump,menu_visibility,menu_excluded,menu_layout,menu_brief,menu_levels_down,menu_ordered,menu_list_type,top_menu_visibility,top_menu_excluded
+1,,,first_node,"First node",1,0,first_node,1,default,0,1,0,1,0,1,1,55,66,1,0,,0,10,1,1,1,0
+2,1,,second_node,"Second node",2,0,first_node/second_node,1/2,default,0,0,0,0,1,0,1,33,44,0,1,,0,0,0,,0,1
+3,2,10,,,3,0,first_node/second_node/customer-service,1/2/3,default,0,0,0,0,0,0,,,,,0,,0,,,,,
+4,2,9,,,3,1,first_node/second_node/about-us,1/2/4,default,0,0,0,0,0,0,,,,,0,,0,,,,,
+5,2,8,,,3,2,first_node/second_node/reward-points,1/2/5,default,0,0,0,0,0,0,,,,,0,,0,,,,,
+6,1,27,,,2,1,first_node/sample_cms_page_2,1/6,default,0,0,0,0,0,0,,,,,0,,0,,,,,
+7,1,26,,,2,2,first_node/sample_cms_page_1,1/7,default,0,0,0,0,0,0,,,,,0,,0,,,,,
+8,1,25,,,2,3,first_node/sample_cms_page_4,1/8,default,0,0,0,0,0,0,,,,,0,,0,,,,,
+9,1,24,,,2,4,first_node/sample_cms_page_3,1/9,default,0,0,0,0,0,0,,,,,0,,0,,,,,
+10,1,,third_node,"Third node",2,5,first_node/third_node,1/10,default,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,,0,0
