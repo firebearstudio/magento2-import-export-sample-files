@@ -47,6 +47,8 @@
   <li><b>search_terms.csv .xml .ods .xlsx</b> - allows importing search terms for Magento 2. The search terms defines any URL redirects for customer search queries.</li>
   <li><b>product_position_in_category.csv</b> - this file features 'products' entity with custom 'categories_position' attribute which allows to import product position inside of a category.</li>
   <li><b>page_hierarchy.csv .xml .ods .xlsx</b> - this file features 'page hierarchy' entity which will let you import your CMS pages menu linking.</li>
+  <li><b>url_rewrite.csv .xml .ods .xlsx</b> - this file features 'url rewrites' entity which will let you import your Magento 2 URL rewrites, redirects, and other url linking.</li>
+  <li><b>review.csv .xml .ods .xlsx</b> - this file features 'product reviews' entity which will let you import your Magento 2 product reviews, rating, and customer thoughs of your products.</li>
 </ul>
 <p align="center" />Up to date default <a href="https://github.com/magento/magento2/">Magento 2 Open Source (CE) & Commerce (EE, Cloud) import</a> / export CSV files &amp; sample files for <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export">Firebear Improved Import / Export extension</a> (CSV, XML, Json)</p>
 
