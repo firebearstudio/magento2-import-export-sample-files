@@ -1,0 +1,4 @@
+review_id,sku,nickname,title,detail,status,created_at,vote:Quality,vote:Value,vote:Price,vote:Rating
+347,WT09,"John (nickname of the reviewer)","Great product (This is a review summary field)","This is a great product indeed! Thank you for your service! (Review field)",Approved,"2019-07-24 09:08:36",,,,5
+348,WS12,John,"Four star review as an example","Great product nevertheless",Pending,"2019-07-24 09:09:04",,,,4
+349,MT07,"John Doe","How do I wear it?","Is there an instruction?","Not Approved","2019-07-24 09:09:33",,,,5

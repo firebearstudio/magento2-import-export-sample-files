@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <review_id>347</review_id>
+  <sku>WT09</sku>
+  <nickname>John (nickname of the reviewer)</nickname>
+  <title>Great product (This is a review summary field)</title>
+  <detail>This is a great product indeed! Thank you for your service! (Review field)</detail>
+  <status>Approved</status>
+  <created_at>2019-07-24 09:08:36</created_at>
+  <vote:Quality></vote:Quality>
+  <vote:Value></vote:Value>
+  <vote:Price></vote:Price>
+  <vote:Rating>5</vote:Rating>
+ </item>
+ <item>
+  <review_id>348</review_id>
+  <sku>WS12</sku>
+  <nickname>John</nickname>
+  <title>Four star review as an example</title>
+  <detail>Great product nevertheless</detail>
+  <status>Pending</status>
+  <created_at>2019-07-24 09:09:04</created_at>
+  <vote:Quality></vote:Quality>
+  <vote:Value></vote:Value>
+  <vote:Price></vote:Price>
+  <vote:Rating>4</vote:Rating>
+ </item>
+ <item>
+  <review_id>349</review_id>
+  <sku>MT07</sku>
+  <nickname>John Doe</nickname>
+  <title>How do I wear it?</title>
+  <detail>Is there an instruction?</detail>
+  <status>Not Approved</status>
+  <created_at>2019-07-24 09:09:33</created_at>
+  <vote:Quality></vote:Quality>
+  <vote:Value></vote:Value>
+  <vote:Price></vote:Price>
+  <vote:Rating>5</vote:Rating>
+ </item>
+</Items>
