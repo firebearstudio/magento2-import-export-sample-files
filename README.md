@@ -49,6 +49,7 @@
   <li><b>page_hierarchy.csv .xml .ods .xlsx</b> - this file features 'page hierarchy' entity which will let you import your CMS pages menu linking.</li>
   <li><b>url_rewrite.csv .xml .ods .xlsx</b> - this file features 'url rewrites' entity which will let you import your Magento 2 URL rewrites, redirects, and other url linking.</li>
   <li><b>review.csv .xml .ods .xlsx</b> - this file features 'product reviews' entity which will let you import your Magento 2 product reviews, rating, and customer thoughs of your products.</li>
+  <li><b>gift_card.csv .xml .ods .xlsx</b> - this file features 'products' entity, specifically gift card products, which will let you import your Magento 2 Commerce gift cards. Note, that you need to use 'Products' entity for import and export, as gift cards count as additional product type.</li>
 </ul>
 <p align="center" />Up to date default <a href="https://github.com/magento/magento2/">Magento 2 Open Source (CE) & Commerce (EE, Cloud) import</a> / export CSV files &amp; sample files for <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export">Firebear Improved Import / Export extension</a> (CSV, XML, Json)</p>
 
