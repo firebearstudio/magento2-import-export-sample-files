@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <entity_id></entity_id>
+  <name>Default Category/First test category</name>
+  <store_view>default</store_view>
+  <store_name></store_name>
+  <image>https://4af610548f-253334.nxcli.net/media/catalog/category/httpsfirebearstudio.commedialogosdefaultlogo.png</image>
+  <url_path>test1</url_path>
+  <available_sort_by>position,name,price</available_sort_by>
+  <custom_apply_to_products>Yes</custom_apply_to_products>
+  <custom_design>Magento Luma</custom_design>
+  <custom_design_from>2/1/18</custom_design_from>
+  <custom_design_to>2/28/18</custom_design_to>
+  <custom_layout_update></custom_layout_update>
+  <custom_layout_update_file></custom_layout_update_file>
+  <custom_use_parent_settings>No</custom_use_parent_settings>
+  <default_sort_by>Position</default_sort_by>
+  <description>&lt;p&gt;Category description&lt;/p&gt;</description>
+  <display_mode>Static block and products</display_mode>
+  <filter_price_range>10.000000</filter_price_range>
+  <include_in_menu>Yes</include_in_menu>
+  <is_active>Yes</is_active>
+  <is_anchor>Yes</is_anchor>
+  <landing_page>0</landing_page>
+  <meta_description>Meta Description</meta_description>
+  <meta_keywords>Meta, Keywords</meta_keywords>
+  <meta_title>Meta title</meta_title>
+  <page_layout>3 columns</page_layout>
+  <path>1/2/14</path>
+  <path_in_store></path_in_store>
+  <position>7</position>
+  <url_key>test1</url_key>
+ </item>
+ <item>
+  <entity_id></entity_id>
+  <name>Default Category/Second test category</name>
+  <store_view>default</store_view>
+  <store_name></store_name>
+  <image>https://4af610548f-253334.nxcli.net/media/catalog/category/httpsfirebearstudio.commedialogosdefaultlogo.png</image>
+  <url_path>test2</url_path>
+  <available_sort_by>position,name,price</available_sort_by>
+  <custom_apply_to_products>No</custom_apply_to_products>
+  <custom_design></custom_design>
+  <custom_design_from></custom_design_from>
+  <custom_design_to></custom_design_to>
+  <custom_layout_update></custom_layout_update>
+  <custom_layout_update_file></custom_layout_update_file>
+  <custom_use_parent_settings>Yes</custom_use_parent_settings>
+  <default_sort_by>Product Name</default_sort_by>
+  <description>&lt;p&gt;Category description&lt;/p&gt;</description>
+  <display_mode>Products only</display_mode>
+  <filter_price_range></filter_price_range>
+  <include_in_menu>Yes</include_in_menu>
+  <is_active>Yes</is_active>
+  <is_anchor>Yes</is_anchor>
+  <landing_page></landing_page>
+  <meta_description>Meta Description</meta_description>
+  <meta_keywords>Meta, Keywords</meta_keywords>
+  <meta_title>Meta title</meta_title>
+  <page_layout></page_layout>
+  <path>1/2/15</path>
+  <path_in_store></path_in_store>
+  <position>8</position>
+  <url_key>test2</url_key>
+ </item>
+ <item>
+  <entity_id></entity_id>
+  <name>Default Category/Third test category</name>
+  <store_view>default</store_view>
+  <store_name></store_name>
+  <image>https://4af610548f-253334.nxcli.net/media/catalog/category/httpsfirebearstudio.commedialogosdefaultlogo.png</image>
+  <url_path>test3</url_path>
+  <available_sort_by>position,name,price</available_sort_by>
+  <custom_apply_to_products>No</custom_apply_to_products>
+  <custom_design></custom_design>
+  <custom_design_from>2/1/18</custom_design_from>
+  <custom_design_to>2/28/18</custom_design_to>
+  <custom_layout_update></custom_layout_update>
+  <custom_layout_update_file></custom_layout_update_file>
+  <custom_use_parent_settings>Yes</custom_use_parent_settings>
+  <default_sort_by>Product Name</default_sort_by>
+  <description>&lt;p&gt;Category description&lt;/p&gt;</description>
+  <display_mode>Products only</display_mode>
+  <filter_price_range></filter_price_range>
+  <include_in_menu>Yes</include_in_menu>
+  <is_active>Yes</is_active>
+  <is_anchor>Yes</is_anchor>
+  <landing_page></landing_page>
+  <meta_description>Meta Description</meta_description>
+  <meta_keywords>Meta, Keywords</meta_keywords>
+  <meta_title>Meta title</meta_title>
+  <page_layout></page_layout>
+  <path>1/2/16</path>
+  <path_in_store></path_in_store>
+  <position>9</position>
+  <url_key>test3</url_key>
+ </item>
+</Items>
