@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <rule_id></rule_id>
+  <name>Test 10% off - Subtotal equals or greater than 10</name>
+  <code/>
+  <uses_per_coupon>0</uses_per_coupon>
+  <description/>
+  <from_date>0000-00-00</from_date>
+  <to_date>0000-00-00</to_date>
+  <conditions_serialized>{&quot;type&quot;:&quot;Magento\\SalesRule\\Model\\Rule\\Condition\\Combine&quot;,&quot;attribute&quot;:null,&quot;operator&quot;:null,&quot;value&quot;:&quot;1&quot;,&quot;is_value_processed&quot;:null,&quot;aggregator&quot;:&quot;all&quot;,&quot;conditions&quot;:[{&quot;type&quot;:&quot;Magento\\SalesRule\\Model\\Rule\\Condition\\Address&quot;,&quot;attribute&quot;:&quot;base_subtotal&quot;,&quot;operator&quot;:&quot;&gt;=&quot;,&quot;value&quot;:&quot;10&quot;,&quot;is_value_processed&quot;:false}]}</conditions_serialized>
+  <actions_serialized>{&quot;type&quot;:&quot;Magento\\SalesRule\\Model\\Rule\\Condition\\Product\\Combine&quot;,&quot;attribute&quot;:null,&quot;operator&quot;:null,&quot;value&quot;:&quot;1&quot;,&quot;is_value_processed&quot;:null,&quot;aggregator&quot;:&quot;all&quot;}</actions_serialized>
+  <uses_per_customer>1</uses_per_customer>
+  <customer_group_ids>0,1,2,3</customer_group_ids>
+  <is_active>1</is_active>
+  <stop_rules_processing>0</stop_rules_processing>
+  <sort_order>0</sort_order>
+  <simple_action>by_percent</simple_action>
+  <discount_amount>10.0000</discount_amount>
+  <discount_qty/>
+  <simple_free_shipping>0</simple_free_shipping>
+  <apply_to_shipping>0</apply_to_shipping>
+  <times_used>0</times_used>
+  <is_rss>1</is_rss>
+  <coupon_type>1</coupon_type>
+  <use_auto_generation>0</use_auto_generation>
+  <website_ids>1</website_ids>
+  <store_labels>0=Test 10% off default label,1=Test 10% off store label</store_labels>
+ </item>
+ <item>
+  <rule_id></rule_id>
+  <name>Test 10% off - Subtotal equals or greater than 10</name>
+  <code/>
+  <uses_per_coupon>0</uses_per_coupon>
+  <description>10% off whole cart</description>
+  <from_date>2020-04-01</from_date>
+  <to_date>2020-04-11</to_date>
+  <conditions_serialized>{&quot;type&quot;:&quot;Magento\\SalesRule\\Model\\Rule\\Condition\\Combine&quot;,&quot;attribute&quot;:null,&quot;operator&quot;:null,&quot;value&quot;:&quot;1&quot;,&quot;is_value_processed&quot;:null,&quot;aggregator&quot;:&quot;all&quot;,&quot;conditions&quot;:[{&quot;type&quot;:&quot;Magento\\SalesRule\\Model\\Rule\\Condition\\Address&quot;,&quot;attribute&quot;:&quot;base_subtotal&quot;,&quot;operator&quot;:&quot;&gt;=&quot;,&quot;value&quot;:&quot;10&quot;,&quot;is_value_processed&quot;:false}]}</conditions_serialized>
+  <actions_serialized>{&quot;type&quot;:&quot;Magento\\SalesRule\\Model\\Rule\\Condition\\Product\\Combine&quot;,&quot;attribute&quot;:null,&quot;operator&quot;:null,&quot;value&quot;:&quot;1&quot;,&quot;is_value_processed&quot;:null,&quot;aggregator&quot;:&quot;all&quot;}</actions_serialized>
+  <uses_per_customer>1</uses_per_customer>
+  <customer_group_ids>0,1,2,3</customer_group_ids>
+  <is_active>1</is_active>
+  <stop_rules_processing>0</stop_rules_processing>
+  <sort_order>0</sort_order>
+  <simple_action>by_percent</simple_action>
+  <discount_amount>10.0000</discount_amount>
+  <discount_qty/>
+  <simple_free_shipping>0</simple_free_shipping>
+  <apply_to_shipping>0</apply_to_shipping>
+  <times_used>0</times_used>
+  <is_rss>1</is_rss>
+  <coupon_type>1</coupon_type>
+  <use_auto_generation>0</use_auto_generation>
+  <website_ids>1</website_ids>
+  <store_labels>0=Test 10% off default label,1=Test 10% off store label</store_labels>
+ </item>
+</Items>
