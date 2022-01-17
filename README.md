@@ -53,7 +53,7 @@
 </ul>
 <p align="center" />Up to date default <a href="https://github.com/magento/magento2/">Magento 2 Open Source (CE) & Commerce (EE, Cloud) import</a> / export CSV files &amp; sample files for <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import & Export">Firebear Improved Import / Export extension</a> (CSV, XML, Json)</p>
 
-<h2><a href="https://firebearstudio.com/the-improved-import.html">Imroved Import and Export extension for Magento 2</a></h2>
+<h2><a href="https://firebearstudio.com/the-improved-import.html">Improved Import and Export extension for Magento 2</a></h2>
 <ul>
   <li>If you are looking for the way to automate import and export procedures</li>
   <li>If you want to import from XML, CSV, Json, XLSX, ODS files</li>
