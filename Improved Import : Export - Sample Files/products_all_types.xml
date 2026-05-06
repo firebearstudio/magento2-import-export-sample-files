@@ -48,7 +48,7 @@
     <special_price>50</special_price>
     <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
     <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
-    <url_key>TST-Conf-Simp-S-Green</url_key>
+    <url_key>TST-Conf-Simp-S-Gray</url_key>
     <meta_title>Test meta title</meta_title>
     <meta_keywords>meta1,meta2,meta3</meta_keywords>
     <meta_description>Meta description goes here.</meta_description>
